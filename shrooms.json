@@ -1,6 +1,6 @@
 [
    {
-      "common_name":"\u0410\u0433\u0440\u043e\u0446\u0438\u0431\u0435 \u0435\u0440\u0435\u0431\u0456\u044f",
+      "common_name":"Агроцибе еребія",
       "scientific_name":"Cyclocybe erebia",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/90717027\/large.jpeg",
@@ -38,7 +38,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0410\u043b\u044c\u0431\u0430\u0442\u0440\u0435\u043b \u0431\u0443\u0437\u043a\u043e\u0432\u0438\u0439",
+      "common_name":"Альбатрел бузковий",
       "scientific_name":"Albatrellus syringae",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/539920258\/large.jpg",
@@ -68,7 +68,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0410\u043b\u044c\u0431\u0430\u0442\u0440\u0435\u043b \u0441\u0438\u043d\u044c\u043e\u043f\u043e\u0440\u043e\u0432\u0438\u0439",
+      "common_name":"Альбатрел синьопоровий",
       "scientific_name":"Albatrellus caeruleoporus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/585106870\/large.jpg",
@@ -106,7 +106,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0410\u0443\u0440\u0438\u043a\u0443\u043b\u044f\u0440\u0456\u044f \u0433\u0443\u0441\u0442\u043e\u0432\u043e\u043b\u043e\u0441\u044f\u043d\u0430",
+      "common_name":"Аурикулярія густоволосяна",
       "scientific_name":"Auricularia polytricha",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/732818769\/large.jpg",
@@ -144,7 +144,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0411\u043b\u044e\u0434\u0446\u0435\u0432\u0438\u043a \u0436\u0438\u043b\u043a\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Блюдцевик жилкуватий",
       "scientific_name":"Disciotis venosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/484497330\/large.jpg",
@@ -182,7 +182,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0432\u043e\u0432\u0447\u0438\u0439",
+      "common_name":"Боровик вовчий",
       "scientific_name":"Rubroboletus lupinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/433841853\/large.jpeg",
@@ -220,7 +220,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0437\u0435\u0440\u043d\u0438\u0441\u0442\u043e\u043d\u043e\u0433\u0438\u0439",
+      "common_name":"Боровик зернистоногий",
       "scientific_name":"Neoboletus luridiformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/581021430\/large.jpg",
@@ -258,7 +258,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0412\u0430\u043b\u0443\u0439",
+      "common_name":"Валуй",
       "scientific_name":"Russula foetens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/423336547\/large.jpeg",
@@ -296,7 +296,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0412\u0435\u0441\u0435\u043b\u043a\u0430 \u043f\u043e\u0434\u0432\u043e\u0454\u043d\u0430",
+      "common_name":"Веселка подвоєна",
       "scientific_name":"Phallus duplicatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/748382768\/large.jpg",
@@ -334,7 +334,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0412\u043e\u0432\u043d\u044f\u043d\u043a\u0430 \u0440\u043e\u0436\u0435\u0432\u0430",
+      "common_name":"Вовнянка рожева",
       "scientific_name":"Lactarius torminosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/320743796\/large.jpeg",
@@ -372,7 +372,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u0435\u043b\u044c\u0432\u0435\u043b\u0430 \u043a\u0443\u0447\u0435\u0440\u044f\u0432\u0430",
+      "common_name":"Гельвела кучерява",
       "scientific_name":"Helvella crispa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/569884732\/large.jpg",
@@ -410,7 +410,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u0456\u043c\u043d\u043e\u043f\u0443\u0441 \u043b\u0456\u0441\u043e\u043b\u044e\u0431\u0438\u0432\u0438\u0439",
+      "common_name":"Гімнопус лісолюбивий",
       "scientific_name":"Gymnopus dryophilus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/459754847\/large.jpeg",
@@ -448,7 +448,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u0456\u0440\u0447\u0430\u043a",
+      "common_name":"Гірчак",
       "scientific_name":"Lactarius rufus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/356825981\/large.jpg",
@@ -486,7 +486,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u043d\u043e\u0439\u043e\u0432\u0438\u043a \u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Гнойовик білий",
       "scientific_name":"Coprinus comatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/497285182\/large.jpeg",
@@ -524,7 +524,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u043d\u043e\u0439\u043e\u0432\u0438\u043a \u043c\u0435\u0440\u0435\u0445\u0442\u043b\u0438\u0432\u0438\u0439",
+      "common_name":"Гнойовик мерехтливий",
       "scientific_name":"Coprinellus micaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/7462127\/large.jpg",
@@ -562,7 +562,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u043d\u043e\u0439\u043e\u0432\u0438\u043a \u0441\u0456\u0440\u0438\u0439",
+      "common_name":"Гнойовик сірий",
       "scientific_name":"Coprinopsis atramentaria",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/162534969\/large.jpg",
@@ -600,7 +600,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0413\u0440\u0443\u0437\u0434\u044c \u0432\u043e\u0434\u044f\u043d\u043e-\u0437\u043e\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Груздь водяно-зоновий",
       "scientific_name":"Lactarius aquizonatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/106662126\/large.jpg",
@@ -638,7 +638,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0414\u0443\u0431\u043e\u0432\u0438\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Дубовик звичайний",
       "scientific_name":"Suillellus luridus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/548385022\/large.jpg",
@@ -676,7 +676,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0414\u0443\u0431\u043e\u0432\u0438\u043a \u041a\u0435\u043b\u0435",
+      "common_name":"Дубовик Келе",
       "scientific_name":"Suillellus queletii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/691515847\/large.jpg",
@@ -714,7 +714,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0441\u0430\u0434\u043e\u0432\u0430",
+      "common_name":"Ентолома садова",
       "scientific_name":"Entoloma clypeatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/507405501\/large.jpg",
@@ -752,7 +752,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0417\u043c\u043e\u0440\u0448\u043e\u043a \u0432\u0438\u0441\u043e\u043a\u0438\u0439",
+      "common_name":"Зморшок високий",
       "scientific_name":"Morchella elata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/190643492\/large.jpeg",
@@ -790,7 +790,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0417\u043c\u043e\u0440\u0448\u043e\u043a \u0457\u0441\u0442\u0456\u0432\u043d\u0438\u0439",
+      "common_name":"Зморшок їстівний",
       "scientific_name":"Morchella esculenta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/697535571\/large.jpg",
@@ -828,7 +828,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0417\u043c\u043e\u0440\u0448\u043e\u043a \u043d\u0430\u043f\u0456\u0432\u0432\u0456\u043b\u044c\u043d\u0438\u0439",
+      "common_name":"Зморшок напіввільний",
       "scientific_name":"Morchella semilibera",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/266922646\/large.jpg",
@@ -866,7 +866,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0417\u043c\u043e\u0440\u0448\u043e\u043a \u0442\u043e\u0432\u0441\u0442\u043e\u043d\u043e\u0433\u0438\u0439",
+      "common_name":"Зморшок товстоногий",
       "scientific_name":"Morchella crassipes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/481115282\/large.jpeg",
@@ -904,7 +904,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0407\u0436\u043e\u0432\u0438\u043a \u0441\u0442\u0440\u043e\u043a\u0430\u0442\u0438\u0439",
+      "common_name":"Їжовик строкатий",
       "scientific_name":"Sarcodon imbricatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/574315281\/large.jpg",
@@ -942,7 +942,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0441\u0456\u0440\u0438\u0439",
+      "common_name":"Клітоцибе сірий",
       "scientific_name":"Clitocybe nebularis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/590211206\/large.jpg",
@@ -980,7 +980,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0447\u0430\u0448\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Клітоцибе чашовидний",
       "scientific_name":"Clitocybe catinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/401266049\/large.jpg"
@@ -989,7 +989,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0435\u0439\u043a\u043e\u0446\u0438\u0431\u0435 \u0437\u0440\u043e\u0441\u043b\u0438\u0439",
+      "common_name":"Лейкоцибе зрослий",
       "scientific_name":"Leucocybe connata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/573630184\/large.jpg",
@@ -1027,7 +1027,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u0441\u0442\u0430 \u0444\u0456\u0430\u043b\u043a\u043e\u0432\u0430",
+      "common_name":"Лепіста фіалкова",
       "scientific_name":"Lepista irina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/162974881\/large.jpeg",
@@ -1065,7 +1065,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u0441\u0442\u0430 \u0444\u0456\u043e\u043b\u0435\u0442\u043e\u0432\u0430",
+      "common_name":"Лепіста фіолетова",
       "scientific_name":"Collybia nuda",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/165991713\/large.jpeg",
@@ -1103,7 +1103,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0438\u0441\u0438\u0447\u043a\u0430 \u0436\u043e\u0432\u0442\u0456\u044e\u0447\u0430",
+      "common_name":"Лисичка жовтіюча",
       "scientific_name":"Craterellus lutescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/53572118\/large.jpg",
@@ -1141,7 +1141,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0443\u0441\u043a\u0430\u0442\u043a\u0430 \u0436\u043e\u0432\u0442\u043e-\u0437\u0435\u043b\u0435\u043d\u0443\u0432\u0430\u0442\u0430",
+      "common_name":"Лускатка жовто-зеленувата",
       "scientific_name":"Pholiota gummosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/332301931\/large.jpeg",
@@ -1179,7 +1179,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0443\u0441\u043a\u0430\u0442\u043a\u0430 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Лускатка звичайна",
       "scientific_name":"Pholiota squarrosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/446921941\/large.jpeg",
@@ -1217,7 +1217,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041b\u0443\u0441\u043a\u0430\u0442\u043a\u0430 \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u0430",
+      "common_name":"Лускатка золотиста",
       "scientific_name":"Pholiota aurivella",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/661974890\/large.jpg",
@@ -1255,7 +1255,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041c\u0435\u0440\u0456\u043f\u0456\u043b\u0456\u0443\u0441 \u0433\u0456\u0433\u0430\u043d\u0442\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Меріпіліус гігантський",
       "scientific_name":"Meripilus giganteus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/104006693\/large.jpeg",
@@ -1293,7 +1293,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u043f\u0430\u0440\u0430\u0437\u0438\u0442\u043d\u0438\u0439",
+      "common_name":"Моховик паразитний",
       "scientific_name":"Pseudoboletus parasiticus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/156994534\/large.jpg",
@@ -1331,7 +1331,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0432\u0438\u0441\u043e\u043a\u0438\u0439",
+      "common_name":"Мухомор високий",
       "scientific_name":"Amanita excelsa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/297129295\/large.jpeg",
@@ -1369,7 +1369,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0441\u0456\u0440\u043e-\u0440\u043e\u0436\u0435\u0432\u0438\u0439",
+      "common_name":"Мухомор сіро-рожевий",
       "scientific_name":"Amanita rubescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/108219260\/large.jpeg",
@@ -1407,7 +1407,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0447\u043e\u0440\u043d\u0438\u0439",
+      "common_name":"Мухомор чорний",
       "scientific_name":"Amanita pachycolea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/322692044\/large.jpeg",
@@ -1445,7 +1445,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u044f\u0439\u0446\u0435\u043f\u043e\u0434\u0456\u0431\u043d\u0438\u0439",
+      "common_name":"Мухомор яйцеподібний",
       "scientific_name":"Amanita ovoidea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/351220496\/large.jpg",
@@ -1483,7 +1483,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041d\u0435\u043e\u043b\u0435\u043d\u0442\u0438\u043d \u0431\u043e\u043a\u0430\u043b\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Неолентин бокаловидний",
       "scientific_name":"Neolentinus cyathiformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/397620007\/large.jpeg",
@@ -1521,7 +1521,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Павутинник каштановий",
       "scientific_name":"Cortinarius mucosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/599785858\/large.jpg",
@@ -1559,7 +1559,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043c\u0456\u043d\u043b\u0438\u0432\u0438\u0439",
+      "common_name":"Павутинник мінливий",
       "scientific_name":"Cortinarius multiformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/177919601\/large.jpg",
@@ -1594,7 +1594,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043f\u0440\u0435\u0447\u0443\u0434\u043e\u0432\u0438\u0439",
+      "common_name":"Павутинник пречудовий",
       "scientific_name":"Cortinarius praestans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/578522684\/large.jpg",
@@ -1632,7 +1632,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0430\u043d\u0435\u043b \u043f\u0456\u0437\u043d\u0456\u0439",
+      "common_name":"Панел пізній",
       "scientific_name":"Panellus serotinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/587741577\/large.jpg",
@@ -1670,7 +1670,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0435\u0440\u0446\u0435\u0432\u0438\u0439 \u0433\u0440\u0438\u0431",
+      "common_name":"Перцевий гриб",
       "scientific_name":"Chalciporus piperatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/449386664\/large.jpeg",
@@ -1708,7 +1708,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0411\u0435\u0440\u043d\u0430\u0440\u0434\u0430",
+      "common_name":"Печериця Бернарда",
       "scientific_name":"Agaricus bernardii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/235221497\/large.jpg",
@@ -1746,7 +1746,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0432\u0430\u043b\u0443\u0439",
+      "common_name":"Підвалуй",
       "scientific_name":"Russula subfoetens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/547618765\/large.jpg",
@@ -1784,7 +1784,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0433\u0440\u0443\u0437\u0434\u043e\u043a \u0447\u043e\u0440\u043d\u0438\u0439",
+      "common_name":"Підгруздок чорний",
       "scientific_name":"Russula adusta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/433918301\/large.jpeg",
@@ -1822,7 +1822,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u043e\u043f\u043b\u0430\u0432\u043e\u043a \u0441\u0456\u0440\u0438\u0439",
+      "common_name":"Поплавок сірий",
       "scientific_name":"Amanita vaginata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/233097798\/large.jpeg",
@@ -1860,7 +1860,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u041f\u043e\u043f\u043b\u0430\u0432\u043e\u043a \u0448\u0430\u0444\u0440\u0430\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Поплавок шафрановий",
       "scientific_name":"Amanita crocea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/155867874\/large.jpeg",
@@ -1898,7 +1898,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u0430\u043c\u0430\u0440\u0456\u044f \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Рамарія звичайна",
       "scientific_name":"Ramaria eumorpha",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/330535141\/large.jpg",
@@ -1936,7 +1936,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0411\u0430\u0442\u0447\u0430",
+      "common_name":"Рядовка Батча",
       "scientific_name":"Tricholoma batschii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/287761392\/large.jpg",
@@ -1974,7 +1974,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0431\u0456\u043b\u043e-\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0430",
+      "common_name":"Рядовка біло-коричнева",
       "scientific_name":"Tricholoma albobrunneum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/75852062\/large.jpeg",
@@ -2012,7 +2012,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0433\u043e\u043b\u0443\u0431\u0438\u043d\u0430",
+      "common_name":"Рядовка голубина",
       "scientific_name":"Tricholoma columbetta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/331481311\/large.jpeg",
@@ -2050,7 +2050,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0436\u043e\u0432\u0442\u043e-\u0431\u0443\u0440\u0430",
+      "common_name":"Рядовка жовто-бура",
       "scientific_name":"Tricholoma fulvum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/586514001\/large.jpg",
@@ -2088,7 +2088,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0437\u0435\u043b\u0435\u043d\u0430",
+      "common_name":"Рядовка зелена",
       "scientific_name":"Tricholoma equestre",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/453160069\/large.jpeg",
@@ -2126,7 +2126,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0437\u0435\u043c\u043b\u0438\u0441\u0442\u0430",
+      "common_name":"Рядовка землиста",
       "scientific_name":"Tricholoma terreum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/102204176\/large.jpg",
@@ -2164,7 +2164,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0430",
+      "common_name":"Рядовка коричнева",
       "scientific_name":"Tricholoma imbricatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/243382402\/large.jpg",
@@ -2202,7 +2202,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u043e\u043f\u0435\u043d\u044c\u043a\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0430",
+      "common_name":"Рядовка опенькоподібна",
       "scientific_name":"Tricholoma focale",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/164676628\/large.jpeg",
@@ -2240,7 +2240,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0441\u0456\u0440\u0430",
+      "common_name":"Рядовка сіра",
       "scientific_name":"Tricholoma portentosum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/189181959\/large.jpeg",
@@ -2278,7 +2278,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0441\u0440\u0456\u0431\u043b\u044f\u0441\u0442\u0430",
+      "common_name":"Рядовка срібляста",
       "scientific_name":"Tricholoma scalpturatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/344436114\/large.jpeg",
@@ -2316,7 +2316,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0442\u043e\u043f\u043e\u043b\u0435\u0432\u0430",
+      "common_name":"Рядовка тополева",
       "scientific_name":"Tricholoma populinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/446610845\/large.jpeg",
@@ -2354,7 +2354,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0447\u0435\u0440\u0432\u043e\u043d\u0443\u0432\u0430\u0442\u0430",
+      "common_name":"Рядовка червонувата",
       "scientific_name":"Tricholoma orirubens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/169733676\/large.jpeg",
@@ -2392,7 +2392,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0440\u043e\u0436\u0435\u0432\u0430",
+      "common_name":"Сироїжка рожева",
       "scientific_name":"Russula rosea",
       "images":[
 
@@ -2401,7 +2401,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0421\u043a\u0440\u0438\u043f\u0438\u0446\u044f",
+      "common_name":"Скрипиця",
       "scientific_name":"Lactifluus vellereus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/114941081\/large.jpeg",
@@ -2439,7 +2439,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0422\u0440\u0438\u0445\u043e\u043b\u043e\u043c\u043e\u043f\u0441\u0438\u0441 \u0436\u043e\u0432\u0442\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Трихоломопсис жовто-червоний",
       "scientific_name":"Tricholomopsis rutilans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/232526457\/large.jpeg",
@@ -2477,7 +2477,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0430\u0440\u043e\u043c\u0430\u0442\u043d\u0438\u0439",
+      "common_name":"Хрящ-молочник ароматний",
       "scientific_name":"Lactarius glyciosmus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/154859140\/large.jpg",
@@ -2515,7 +2515,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0431\u043b\u044f\u043a\u043b\u0438\u0439",
+      "common_name":"Хрящ-молочник бляклий",
       "scientific_name":"Lactarius vietus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/727864296\/large.jpg",
@@ -2553,7 +2553,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0433\u0440\u0443\u043f\u043e\u0432\u0438\u0439",
+      "common_name":"Хрящ-молочник груповий",
       "scientific_name":"Lactarius insulsus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/592913755\/large.jpg",
@@ -2591,7 +2591,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Хрящ-молочник жовтий",
       "scientific_name":"Lactarius scrobiculatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/235585011\/large.jpeg",
@@ -2629,7 +2629,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Хрящ-молочник звичайний",
       "scientific_name":"Lactarius trivialis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/50331717\/large.jpeg",
@@ -2667,7 +2667,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u043e\u043b\u0438\u0432\u043a\u043e\u0432\u043e-\u0447\u043e\u0440\u043d\u0438\u0439",
+      "common_name":"Хрящ-молочник оливково-чорний",
       "scientific_name":"Lactarius turpis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/321837372\/large.jpeg",
@@ -2705,7 +2705,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u043e\u0441\u0438\u043a\u043e\u0432\u0438\u0439",
+      "common_name":"Хрящ-молочник осиковий",
       "scientific_name":"Lactarius controversus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/583611530\/large.jpg",
@@ -2743,7 +2743,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u043f\u0435\u0440\u0433\u0430\u043c\u0435\u043d\u0442\u043d\u0438\u0439",
+      "common_name":"Хрящ-молочник пергаментний",
       "scientific_name":"Lactarius pergamenus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/219342353\/large.jpeg",
@@ -2781,7 +2781,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u043f\u0435\u0440\u0446\u0435\u0432\u0438\u0439",
+      "common_name":"Хрящ-молочник перцевий",
       "scientific_name":"Lactifluus piperatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/162591219\/large.jpeg",
@@ -2819,7 +2819,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0441\u0438\u0437\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Хрящ-молочник сизуватий",
       "scientific_name":"Lactifluus glaucescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/322578319\/large.jpeg",
@@ -2857,7 +2857,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0441\u0438\u043d\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Хрящ-молочник синіючий",
       "scientific_name":"Lactarius repraesentaneus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/307084927\/large.jpg",
@@ -2895,7 +2895,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0441\u0456\u0440\u0438\u0439",
+      "common_name":"Хрящ-молочник сірий",
       "scientific_name":"Lactarius flexuosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/417802313\/large.jpg",
@@ -2933,7 +2933,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0441\u043e\u043b\u043e\u0434\u043a\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Хрящ-молочник солодкуватий",
       "scientific_name":"Lactarius subdulcis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/562668419\/large.jpg",
@@ -2971,7 +2971,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439",
+      "common_name":"Хрящ-молочник справжній",
       "scientific_name":"Lactarius resimus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/170167546\/large.jpeg",
@@ -3009,7 +3009,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0426\u0438\u0441\u0442\u043e\u0434\u0435\u0440\u043c\u0430 \u0430\u043c\u0456\u0430\u043d\u0442\u043e\u0432\u0430",
+      "common_name":"Цистодерма аміантова",
       "scientific_name":"Cystoderma amianthinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/591303723\/large.jpg",
@@ -3047,7 +3047,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0426\u0438\u0441\u0442\u043e\u0434\u0435\u0440\u043c\u0430 \u043f\u0430\u0445\u0443\u0447\u0430",
+      "common_name":"Цистодерма пахуча",
       "scientific_name":"Cystoderma carcharias",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/573777524\/large.jpg",
@@ -3085,7 +3085,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0428\u0430\u043f\u043e\u0447\u043a\u0430 \u0437\u043c\u043e\u0440\u0448\u043a\u043e\u0432\u0430",
+      "common_name":"Шапочка зморшкова",
       "scientific_name":"Verpa bohemica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/116315566\/large.jpg",
@@ -3123,7 +3123,7 @@
       "edibility_precise":"cond"
    },
    {
-      "common_name":"\u0410\u043b\u0435\u0432\u0440\u0456\u044f \u043f\u043e\u043c\u0430\u0440\u0430\u043d\u0447\u0435\u0432\u0430",
+      "common_name":"Алеврія помаранчева",
       "scientific_name":"Aleuria aurantia",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/98926019\/large.jpeg",
@@ -3161,7 +3161,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0410\u043b\u044c\u0431\u0430\u0442\u0440\u0435\u043b \u0437\u043b\u0438\u0442\u0438\u0439",
+      "common_name":"Альбатрел злитий",
       "scientific_name":"Albatrellopsis confluens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/146604530\/large.jpeg",
@@ -3199,7 +3199,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0410\u043b\u044c\u0431\u0430\u0442\u0440\u0435\u043b \u043e\u0432\u0435\u0447\u0438\u0439",
+      "common_name":"Альбатрел овечий",
       "scientific_name":"Albatrellus ovinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/152496500\/large.jpg",
@@ -3237,7 +3237,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0410\u0440\u0442\u043e\u043c\u0456\u0446\u0435\u0441 \u043a\u043e\u0440\u043e\u0431\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Артоміцес коробчастий",
       "scientific_name":"Artomyces pyxidatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/46345902\/large.jpg",
@@ -3275,7 +3275,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0410\u0443\u0440\u0438\u043a\u0443\u043b\u044f\u0440\u0456\u044f \u0432\u0443\u0445\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0430",
+      "common_name":"Аурикулярія вухоподібна",
       "scientific_name":"Auricularia auricula-judae",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/348255321\/large.jpeg",
@@ -3313,7 +3313,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0410\u0443\u0440\u0438\u043a\u0443\u043b\u044f\u0440\u0456\u044f \u0437\u0432\u0438\u0432\u0438\u0441\u0442\u0430",
+      "common_name":"Аурикулярія звивиста",
       "scientific_name":"Auricularia mesenterica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/56036570\/large.jpg",
@@ -3351,7 +3351,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u0456\u043b\u0438\u0439 \u0433\u0440\u0438\u0431",
+      "common_name":"Білий гриб",
       "scientific_name":"Boletus edulis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/546780420\/large.jpg",
@@ -3389,7 +3389,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u0456\u043b\u0438\u0439 \u0433\u0440\u0438\u0431 \u0434\u0443\u0431\u043e\u0432\u0438\u0439",
+      "common_name":"Білий гриб дубовий",
       "scientific_name":"Boletus reticulatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/298918735\/large.jpeg",
@@ -3427,7 +3427,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u0456\u043b\u0438\u0439 \u0433\u0440\u0438\u0431 \u0441\u043e\u0441\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Білий гриб сосновий",
       "scientific_name":"Boletus pinophilus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/286956900\/large.jpeg",
@@ -3465,7 +3465,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u0456\u043b\u043e\u043f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0434\u043e\u0432\u0433\u043e\u043a\u043e\u0440\u0435\u043d\u0435\u0432\u0430",
+      "common_name":"Білопечериця довгокоренева",
       "scientific_name":"Leucoagaricus barssii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/334045234\/large.jpg",
@@ -3503,7 +3503,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u0456\u043b\u043e\u043f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0440\u0443\u043c\u2019\u044f\u043d\u0456\u044e\u0447\u0430",
+      "common_name":"Білопечериця рум’яніюча",
       "scientific_name":"Leucoagaricus leucothites",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/250756216\/large.jpg",
@@ -3541,7 +3541,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u0456\u043b\u043e\u0441\u0432\u0438\u043d\u0443\u0445\u0430 \u0442\u0440\u0438\u043a\u043e\u043b\u0456\u0440\u043d\u0430",
+      "common_name":"Білосвинуха триколірна",
       "scientific_name":"Leucopaxillus tricolor",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/712866933\/large.jpg",
@@ -3576,7 +3576,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u043b\u0435\u0442\u0438\u043d \u0430\u0437\u0456\u0430\u0442\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Болетин азіатський",
       "scientific_name":"Suillus asiaticus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/311584278\/large.jpeg",
@@ -3614,7 +3614,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u043b\u0435\u0442\u0438\u043d \u043f\u0440\u0438\u043c\u0456\u0442\u043d\u0438\u0439",
+      "common_name":"Болетин примітний",
       "scientific_name":"Suillus spectabilis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/467865184\/large.jpg",
@@ -3652,7 +3652,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0431\u0440\u043e\u043d\u0437\u043e\u0432\u0438\u0439",
+      "common_name":"Боровик бронзовий",
       "scientific_name":"Boletus aereus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/389423713\/large.jpeg",
@@ -3690,7 +3690,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0434\u0432\u043e\u043a\u043e\u043b\u0456\u0440\u043d\u0438\u0439",
+      "common_name":"Боровик двоколірний",
       "scientific_name":"Baorangia bicolor",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/82762800\/large.jpeg",
@@ -3728,7 +3728,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Боровик жовтий",
       "scientific_name":"Neoboletus junquilleus",
       "images":[
 
@@ -3737,7 +3737,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u0438\u0439",
+      "common_name":"Боровик золотистий",
       "scientific_name":"Aureoboletus projectellus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/553034507\/large.jpg",
@@ -3775,7 +3775,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u043a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Боровик королівський",
       "scientific_name":"Butyriboletus regius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/575418411\/large.jpg",
@@ -3813,7 +3813,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u043d\u0430\u043f\u0456\u0432\u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Боровик напівбілий",
       "scientific_name":"Hemileccinum impolitum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/343447206\/large.jpeg",
@@ -3851,7 +3851,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u043f\u0440\u0438\u0434\u0430\u0442\u043a\u043e\u0432\u0438\u0439",
+      "common_name":"Боровик придатковий",
       "scientific_name":"Butyriboletus appendiculatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/299121804\/large.jpg",
@@ -3889,7 +3889,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0424\u0435\u0445\u0442\u043d\u0435\u0440\u0430",
+      "common_name":"Боровик Фехтнера",
       "scientific_name":"Butyriboletus fechtneri",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/439771540\/large.jpg",
@@ -3927,7 +3927,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0412\u0435\u0441\u0435\u043b\u043a\u0430 \u0410\u0434\u0440\u0456\u0430\u043d\u0430",
+      "common_name":"Веселка Адріана",
       "scientific_name":"Phallus hadriani",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/259299604\/large.jpeg",
@@ -3965,7 +3965,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0412\u0435\u0441\u0435\u043b\u043a\u0430 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Веселка звичайна",
       "scientific_name":"Phallus impudicus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/600344175\/large.jpg",
@@ -4003,7 +4003,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0412\u043e\u0432\u043d\u044f\u043d\u043a\u0430 \u0431\u0456\u043b\u0430",
+      "common_name":"Вовнянка біла",
       "scientific_name":"Lactarius pubescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/243189888\/large.jpeg",
@@ -4041,7 +4041,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0412\u043e\u043b\u044c\u0432\u0430\u0440\u0456\u0454\u043b\u0430 \u0441\u043b\u0438\u0437\u0438\u0441\u0442\u043e\u0433\u043e\u043b\u043e\u0432\u0430",
+      "common_name":"Вольварієла слизистоголова",
       "scientific_name":"Volvopluteus gloiocephalus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/490945471\/large.jpeg",
@@ -4079,7 +4079,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0412\u043e\u043b\u044c\u0432\u0430\u0440\u0456\u0454\u043b\u0430 \u0448\u043e\u0432\u043a\u043e\u0432\u0438\u0441\u0442\u0430",
+      "common_name":"Вольварієла шовковиста",
       "scientific_name":"Volvariella bombycina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/431105620\/large.jpeg",
@@ -4117,7 +4117,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0435\u0440\u0456\u0446\u0456\u0439 \u0433\u0440\u0435\u0431\u0456\u043d\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Геріцій гребінчастий",
       "scientific_name":"Hericium erinaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/179391269\/large.jpg",
@@ -4155,7 +4155,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0435\u0440\u0456\u0446\u0456\u0439 \u043a\u043e\u0440\u0430\u043b\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0438\u0439",
+      "common_name":"Геріцій коралоподібний",
       "scientific_name":"Hericium coralloides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/416125278\/large.jpg",
@@ -4193,7 +4193,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u0431\u0443\u043a\u043e\u0432\u0438\u0439",
+      "common_name":"Гігрофор буковий",
       "scientific_name":"Hygrophorus leucophaeus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/103229898\/large.jpeg",
@@ -4231,7 +4231,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u0434\u0443\u0445\u043c\u044f\u043d\u0438\u0439",
+      "common_name":"Гігрофор духмяний",
       "scientific_name":"Hygrophorus agathosmus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/443718155\/large.jpeg",
@@ -4269,7 +4269,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u0436\u043e\u0432\u0442\u0443\u0432\u0430\u0442\u043e-\u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Гігрофор жовтувато-білий",
       "scientific_name":"Hygrophorus eburneus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/583245263\/large.jpg",
@@ -4307,7 +4307,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u0438\u0439",
+      "common_name":"Гігрофор золотистий",
       "scientific_name":"Hygrophorus chrysodon",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/238053335\/large.jpeg",
@@ -4345,7 +4345,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u043c\u043e\u0434\u0440\u0438\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Гігрофор модриновий",
       "scientific_name":"Hygrophorus lucorum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/441216831\/large.jpeg",
@@ -4383,7 +4383,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u043e\u043b\u0438\u0432\u043a\u043e\u0432\u043e-\u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Гігрофор оливково-білий",
       "scientific_name":"Hygrophorus olivaceoalbus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/169417328\/large.jpg",
@@ -4421,7 +4421,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u043f\u0456\u0437\u043d\u0456\u0439",
+      "common_name":"Гігрофор пізній",
       "scientific_name":"Hygrophorus hypothejus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/454865306\/large.jpeg",
@@ -4459,7 +4459,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u0440\u0430\u043d\u043d\u0456\u0439",
+      "common_name":"Гігрофор ранній",
       "scientific_name":"Hygrophorus marzuolus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/290404425\/large.jpeg",
@@ -4497,7 +4497,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0444\u043e\u0440 \u0441\u0438\u0440\u043e\u0457\u0436\u043a\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Гігрофор сироїжковидний",
       "scientific_name":"Hygrophorus russula",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/165233266\/large.jpg",
@@ -4535,7 +4535,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0446\u0438\u0431\u0435 \u0431\u0456\u043b\u043e\u0441\u043d\u0456\u0436\u043d\u0430",
+      "common_name":"Гігроцибе білосніжна",
       "scientific_name":"Cuphophyllus virgineus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/576901429\/large.jpg",
@@ -4573,7 +4573,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0456\u0440\u043e\u043f\u043e\u0440 \u0431\u0435\u0440\u0435\u0437\u043e\u0432\u0438\u0439 \u0441\u0438\u043d\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Гіропор березовий синіючий",
       "scientific_name":"Gyroporus cyanescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/221423192\/large.jpg",
@@ -4611,7 +4611,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u0434\u0443\u0431\u043e\u0432\u0430",
+      "common_name":"Глива дубова",
       "scientific_name":"Pleurotus dryinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/97224501\/large.jpg",
@@ -4649,7 +4649,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Глива звичайна",
       "scientific_name":"Pleurotus ostreatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/598455509\/large.jpg",
@@ -4687,7 +4687,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u043a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u044c\u043a\u0430",
+      "common_name":"Глива королівська",
       "scientific_name":"Pleurotus eryngii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/657562788\/large.jpg",
@@ -4725,7 +4725,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u043b\u0435\u0433\u0435\u043d\u0435\u0432\u0430",
+      "common_name":"Глива легенева",
       "scientific_name":"Pleurotus pulmonarius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/529634807\/large.jpg",
@@ -4763,7 +4763,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u043b\u0438\u043c\u043e\u043d\u043d\u0430",
+      "common_name":"Глива лимонна",
       "scientific_name":"Pleurotus citrinopileatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/511539107\/large.jpg",
@@ -4801,7 +4801,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u0440\u0456\u0436\u043a\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Глива ріжковидна",
       "scientific_name":"Pleurotus cornucopiae",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/539112172\/large.jpg",
@@ -4839,7 +4839,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u0440\u043e\u0436\u0435\u0432\u0430",
+      "common_name":"Глива рожева",
       "scientific_name":"Pleurotus djamor",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/259182788\/large.jpg",
@@ -4877,7 +4877,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043d\u043e\u0439\u043e\u0432\u0438\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Гнойовик звичайний",
       "scientific_name":"Coprinopsis cinerea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/754965600\/large.jpg",
@@ -4915,7 +4915,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043e\u0432\u043e\u0440\u0443\u0448\u043a\u0430 \u0433\u0456\u0433\u0430\u043d\u0442\u0441\u044c\u043a\u0430",
+      "common_name":"Говорушка гігантська",
       "scientific_name":"Aspropaxillus giganteus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/601153711\/large.jpg",
@@ -4953,7 +4953,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u043e\u043b\u043e\u0432\u0430\u0447 \u0433\u0456\u0433\u0430\u043d\u0442\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Головач гігантський",
       "scientific_name":"Calvatia gigantea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/239013740\/large.jpg",
@@ -4991,7 +4991,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0440\u0438\u0431-\u0437\u043e\u043d\u0442\u0438\u043a \u0432\u0435\u043b\u0438\u043a\u0438\u0439",
+      "common_name":"Гриб-зонтик великий",
       "scientific_name":"Macrolepiota procera",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/161523516\/large.jpg",
@@ -5029,7 +5029,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0440\u0438\u0431-\u0437\u043e\u043d\u0442\u0438\u043a \u043f\u043e\u043b\u044c\u043e\u0432\u0438\u0439",
+      "common_name":"Гриб-зонтик польовий",
       "scientific_name":"Macrolepiota excoriata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/723975360\/large.jpg",
@@ -5067,7 +5067,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0440\u0438\u0431-\u0437\u043e\u043d\u0442\u0438\u043a \u0447\u0435\u0440\u0432\u043e\u043d\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Гриб-зонтик червоніючий",
       "scientific_name":"Chlorophyllum rhacodes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/713165531\/large.jpg",
@@ -5105,7 +5105,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0440\u0438\u0444\u043e\u043b\u0430 \u043f\u043e\u043a\u0440\u0443\u0447\u0435\u043d\u0430",
+      "common_name":"Грифола покручена",
       "scientific_name":"Grifola frondosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/163482598\/large.jpg",
@@ -5143,7 +5143,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0413\u0443\u0435\u043f\u0456\u043d\u0456\u044f \u0433\u0435\u043b\u044c\u0432\u0435\u043b\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Гуепінія гельвеловидна",
       "scientific_name":"Guepinia helvelloides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/322465649\/large.jpg",
@@ -5181,7 +5181,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0414\u043e\u0449\u043e\u0432\u0438\u043a \u0433\u0440\u0443\u0448\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0438\u0439",
+      "common_name":"Дощовик грушоподібний",
       "scientific_name":"Lycoperdon pyriforme",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/333602222\/large.jpg",
@@ -5219,7 +5219,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0414\u043e\u0449\u043e\u0432\u0438\u043a \u043b\u0443\u0433\u043e\u0432\u0438\u0439",
+      "common_name":"Дощовик луговий",
       "scientific_name":"Lycoperdon pratense",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/743732433\/large.jpg",
@@ -5257,7 +5257,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0414\u043e\u0449\u043e\u0432\u0438\u043a \u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439",
+      "common_name":"Дощовик справжній",
       "scientific_name":"Lycoperdon perlatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/52002976\/large.jpeg",
@@ -5295,7 +5295,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0417\u043c\u043e\u0440\u0448\u043e\u043a \u0441\u0442\u0435\u043f\u043e\u0432\u0438\u0439",
+      "common_name":"Зморшок степовий",
       "scientific_name":"Morchella steppicola",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/21962029\/large.jpg",
@@ -5333,7 +5333,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0407\u0436\u043e\u0432\u0438\u043a \u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Їжовик білий",
       "scientific_name":"Hydnum albidum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/91078367\/large.jpg",
@@ -5371,7 +5371,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0407\u0436\u043e\u0432\u0438\u043a \u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Їжовик жовтий",
       "scientific_name":"Hydnum repandum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/739301139\/large.jpg",
@@ -5409,7 +5409,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u0430\u043b\u043e\u0446\u0438\u0431\u0435 \u0442\u0440\u0430\u0432\u043d\u0435\u0432\u0430",
+      "common_name":"Калоцибе травнева",
       "scientific_name":"Calocybe gambosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/198159745\/large.jpeg",
@@ -5447,7 +5447,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u0438\u0439 \u0433\u0440\u0438\u0431",
+      "common_name":"Каштановий гриб",
       "scientific_name":"Gyroporus castaneus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/31250801\/large.jpeg",
@@ -5485,7 +5485,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0434\u0443\u0445\u043c\u044f\u043d\u0438\u0439",
+      "common_name":"Клітоцибе духмяний",
       "scientific_name":"Clitocybe odora",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/750881350\/large.jpg",
@@ -5523,7 +5523,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u043a\u0435\u043b\u0438\u0445\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Клітоцибе келиховидний",
       "scientific_name":"Clitocybe cyathiformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/115119260\/large.jpeg",
@@ -5561,7 +5561,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u043b\u0456\u0439\u043a\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Клітоцибе лійковидний",
       "scientific_name":"Infundibulicybe gibba",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/164889218\/large.jpeg",
@@ -5599,7 +5599,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0440\u0443\u0434\u0438\u0439",
+      "common_name":"Клітоцибе рудий",
       "scientific_name":"Infundibulicybe geotropa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/598330514\/large.jpg",
@@ -5637,7 +5637,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u043e\u0432\u043f\u0430\u043a \u043a\u0456\u043b\u044c\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Ковпак кільчастий",
       "scientific_name":"Cortinarius caperatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/720150997\/large.jpg",
@@ -5675,7 +5675,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041a\u043e\u0437\u043b\u044f\u043a",
+      "common_name":"Козляк",
       "scientific_name":"Suillus bovinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/428963552\/large.jpeg",
@@ -5713,7 +5713,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u0441\u0442\u0430 \u043b\u0456\u043b\u043e\u0432\u043e\u043d\u043e\u0433\u0430",
+      "common_name":"Лепіста ліловонога",
       "scientific_name":"Collybia personata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/244032694\/large.jpeg",
@@ -5751,7 +5751,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0438\u0441\u0438\u0447\u043a\u0430 \u0431\u043b\u0456\u0434\u0430",
+      "common_name":"Лисичка бліда",
       "scientific_name":"Cantharellus pallens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/239575162\/large.jpeg",
@@ -5789,7 +5789,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0438\u0441\u0438\u0447\u043a\u0430 \u0433\u043e\u0440\u0431\u0430\u0442\u0430",
+      "common_name":"Лисичка горбата",
       "scientific_name":"Cantharellula umbonata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/445089079\/large.jpeg",
@@ -5827,7 +5827,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0438\u0441\u0438\u0447\u043a\u0430 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Лисичка звичайна",
       "scientific_name":"Cantharellus cibarius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/149177235\/large.jpeg",
@@ -5865,7 +5865,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0438\u0441\u0438\u0447\u043a\u0430 \u0441\u0456\u0440\u0430",
+      "common_name":"Лисичка сіра",
       "scientific_name":"Cantharellus cinereus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/441414972\/large.jpeg",
@@ -5903,7 +5903,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0456\u0439\u043e\u0447\u043d\u0438\u043a \u0440\u0456\u0436\u043a\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Лійочник ріжковидний",
       "scientific_name":"Craterellus cornucopioides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/149863711\/large.jpg",
@@ -5941,7 +5941,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0456\u0439\u043e\u0447\u043d\u0438\u043a \u0442\u0440\u0443\u0431\u043a\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Лійочник трубковидний",
       "scientific_name":"Craterellus tubaeformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/252091508\/large.jpeg",
@@ -5979,7 +5979,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041b\u0456\u043e\u0444\u0456\u043b \u0441\u043a\u0443\u043f\u0447\u0435\u043d\u0438\u0439",
+      "common_name":"Ліофіл скупчений",
       "scientific_name":"Lyophyllum decastes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/337632101\/large.jpeg",
@@ -6017,7 +6017,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Маслюк білий",
       "scientific_name":"Suillus placidus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/233460267\/large.jpg",
@@ -6055,7 +6055,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u0436\u043e\u0432\u0442\u043e-\u0431\u0443\u0440\u0438\u0439",
+      "common_name":"Маслюк жовто-бурий",
       "scientific_name":"Suillus variegatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/740585763\/large.jpg",
@@ -6093,7 +6093,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Маслюк звичайний",
       "scientific_name":"Suillus luteus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/90230104\/large.jpeg",
@@ -6131,7 +6131,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u0437\u0435\u0440\u043d\u0438\u0441\u0442\u0438\u0439",
+      "common_name":"Маслюк зернистий",
       "scientific_name":"Suillus granulatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/416393540\/large.jpeg",
@@ -6169,7 +6169,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u043c\u043e\u0434\u0440\u0438\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Маслюк модриновий",
       "scientific_name":"Suillus grevillei",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/431035793\/large.jpeg",
@@ -6207,7 +6207,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u043f\u043e\u0440\u043e\u0436\u043d\u0438\u0441\u0442\u043e\u043d\u043e\u0433\u0438\u0439",
+      "common_name":"Маслюк порожнистоногий",
       "scientific_name":"Suillus cavipes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/586599142\/large.jpg",
@@ -6245,7 +6245,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0430\u0441\u043b\u044e\u043a \u0441\u0456\u0440\u0438\u0439",
+      "common_name":"Маслюк сірий",
       "scientific_name":"Suillus viscidus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/146337586\/large.jpeg",
@@ -6283,7 +6283,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u043a\u0440\u0443\u0445\u0430 \u043f\u0443\u0440\u043f\u0443\u0440\u043e\u0432\u0430",
+      "common_name":"Мокруха пурпурова",
       "scientific_name":"Chroogomphus rutilus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/234119148\/large.jpg",
@@ -6321,7 +6321,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u043a\u0440\u0443\u0445\u0430 \u044f\u043b\u0438\u043d\u043e\u0432\u0430",
+      "common_name":"Мокруха ялинова",
       "scientific_name":"Gomphidius glutinosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/431727599\/large.jpeg",
@@ -6359,7 +6359,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u0437\u0435\u043b\u0435\u043d\u0438\u0439",
+      "common_name":"Моховик зелений",
       "scientific_name":"Xerocomus subtomentosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/306563361\/large.jpg",
@@ -6397,7 +6397,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Моховик каштановий",
       "scientific_name":"Xerocomus ferrugineus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/314634109\/large.jpeg",
@@ -6435,7 +6435,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u043e\u043a\u0441\u0430\u043c\u0438\u0442\u043e\u0432\u0438\u0439",
+      "common_name":"Моховик оксамитовий",
       "scientific_name":"Xerocomellus pruinatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/547118940\/large.jpg",
@@ -6473,7 +6473,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u043f\u043e\u0440\u043e\u0441\u043f\u043e\u0440\u043e\u0432\u0438\u0439",
+      "common_name":"Моховик пороспоровий",
       "scientific_name":"Xerocomellus porosporus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/710269382\/large.jpg",
@@ -6511,7 +6511,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u043f\u043e\u0442\u0440\u0456\u0441\u043a\u0430\u043d\u0438\u0439",
+      "common_name":"Моховик потрісканий",
       "scientific_name":"Xerocomellus chrysenteron",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/733816587\/large.jpg",
@@ -6549,7 +6549,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u043e\u0445\u043e\u0432\u0438\u043a \u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Моховик червоний",
       "scientific_name":"Hortiboletus rubellus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/225558436\/large.jpeg",
@@ -6587,7 +6587,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0411\u0430\u0442\u0442\u0430\u0440\u0438",
+      "common_name":"Мухомор Баттари",
       "scientific_name":"Amanita battarrae",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/81355852\/large.jpeg",
@@ -6625,7 +6625,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0426\u0435\u0437\u0430\u0440\u044f",
+      "common_name":"Мухомор Цезаря",
       "scientific_name":"Amanita caesarea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/384354753\/large.jpeg",
@@ -6663,7 +6663,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041d\u0435\u043e\u043b\u0435\u043d\u0442\u0438\u043d \u043b\u0443\u0441\u043a\u0430\u0442\u0438\u0439",
+      "common_name":"Неолентин лускатий",
       "scientific_name":"Neolentinus lepideus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/276230420\/large.jpeg",
@@ -6701,7 +6701,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0437\u0438\u043c\u043e\u0432\u0438\u0439",
+      "common_name":"Опеньок зимовий",
       "scientific_name":"Flammulina velutipes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/212684110\/large.jpg",
@@ -6739,7 +6739,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0437\u0441\u0438\u0445\u0430\u044e\u0447\u0438\u0439",
+      "common_name":"Опеньок зсихаючий",
       "scientific_name":"Desarmillaria tabescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/582838428\/large.jpg",
@@ -6777,7 +6777,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u043b\u0456\u0442\u043d\u0456\u0439",
+      "common_name":"Опеньок літній",
       "scientific_name":"Kuehneromyces mutabilis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/52998685\/large.jpeg",
@@ -6815,7 +6815,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u043b\u0443\u0433\u043e\u0432\u0438\u0439",
+      "common_name":"Опеньок луговий",
       "scientific_name":"Marasmius oreades",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/263449815\/large.jpeg",
@@ -6853,7 +6853,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u043e\u0441\u0456\u043d\u043d\u0456\u0439",
+      "common_name":"Опеньок осінній",
       "scientific_name":"Armillaria mellea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/343440665\/large.jpeg",
@@ -6891,7 +6891,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0441\u0456\u0440\u043e\u043f\u043b\u0430\u0441\u0442\u0438\u043d\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Опеньок сіропластинчастий",
       "scientific_name":"Hypholoma capnoides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/226097171\/large.jpg",
@@ -6929,7 +6929,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0442\u0435\u043c\u043d\u0438\u0439",
+      "common_name":"Опеньок темний",
       "scientific_name":"Armillaria ostoyae",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/238288229\/large.jpg",
@@ -6967,7 +6967,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0442\u043e\u0432\u0441\u0442\u043e\u043d\u043e\u0433\u0438\u0439",
+      "common_name":"Опеньок товстоногий",
       "scientific_name":"Armillaria gallica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/310137003\/large.jpeg",
@@ -7005,7 +7005,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0442\u043e\u043f\u043e\u043b\u0435\u0432\u0438\u0439",
+      "common_name":"Опеньок тополевий",
       "scientific_name":"Cyclocybe aegerita",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/568702189\/large.jpg",
@@ -7043,7 +7043,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u0457\u0441\u0442\u0456\u0432\u043d\u0438\u0439",
+      "common_name":"Павутинник їстівний",
       "scientific_name":"Cortinarius esculentus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/430591125\/large.jpg"
@@ -7052,7 +7052,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043e\u0431\u043b\u044f\u043c\u043e\u0432\u0430\u043d\u0438\u0439",
+      "common_name":"Павутинник облямований",
       "scientific_name":"Cortinarius armillatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/158343344\/large.jpeg",
@@ -7090,7 +7090,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u0442\u0440\u0456\u0443\u043c\u0444\u0430\u043b\u044c\u043d\u0438\u0439",
+      "common_name":"Павутинник тріумфальний",
       "scientific_name":"Cortinarius triumphans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/741727704\/large.jpg",
@@ -7128,7 +7128,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u0444\u0456\u043e\u043b\u0435\u0442\u043e\u0432\u0438\u0439",
+      "common_name":"Павутинник фіолетовий",
       "scientific_name":"Cortinarius violaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/578945093\/large.jpg",
@@ -7166,7 +7166,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0432\u0435\u043b\u0438\u043a\u043e\u0441\u043f\u043e\u0440\u043e\u0432\u0430",
+      "common_name":"Печериця великоспорова",
       "scientific_name":"Agaricus crocodilinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/342886781\/large.jpeg",
@@ -7204,7 +7204,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0432\u0437\u0443\u0442\u0430",
+      "common_name":"Печериця взута",
       "scientific_name":"Agaricus subperonatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/579212347\/large.jpg",
@@ -7227,7 +7227,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0434\u0432\u043e\u043a\u0456\u043b\u044c\u0446\u0435\u0432\u0430",
+      "common_name":"Печериця двокільцева",
       "scientific_name":"Agaricus bitorquis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/291723420\/large.jpg",
@@ -7265,7 +7265,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Печериця звичайна",
       "scientific_name":"Agaricus campestris",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/207212731\/large.jpg",
@@ -7303,7 +7303,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u043a\u0440\u0438\u0432\u0430",
+      "common_name":"Печериця крива",
       "scientific_name":"Agaricus abruptibulbus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/428086250\/large.jpeg",
@@ -7341,7 +7341,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u043b\u0456\u0441\u043e\u0432\u0430",
+      "common_name":"Печериця лісова",
       "scientific_name":"Agaricus silvaticus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/102801996\/large.jpeg",
@@ -7379,7 +7379,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u043f\u0435\u0440\u0435\u043b\u0456\u0441\u043a\u043e\u0432\u0430",
+      "common_name":"Печериця переліскова",
       "scientific_name":"Agaricus sylvicola",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/443186720\/large.jpeg",
@@ -7417,7 +7417,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u043f\u043e\u043b\u044c\u043e\u0432\u0430",
+      "common_name":"Печериця польова",
       "scientific_name":"Agaricus arvensis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/29441769\/large.jpeg",
@@ -7455,7 +7455,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0441\u0430\u0434\u043e\u0432\u0430",
+      "common_name":"Печериця садова",
       "scientific_name":"Agaricus bisporus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/720261215\/large.jpg",
@@ -7493,7 +7493,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0441\u0435\u0440\u043f\u043d\u0435\u0432\u0430",
+      "common_name":"Печериця серпнева",
       "scientific_name":"Agaricus augustus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/4135569\/large.",
@@ -7531,7 +7531,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0441\u0442\u0440\u0443\u043d\u043a\u0430",
+      "common_name":"Печериця струнка",
       "scientific_name":"Agaricus comtulus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/581525062\/large.jpg",
@@ -7563,7 +7563,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0456\u043d\u043e\u0447\u043d\u0438\u0446\u044f \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Печіночниця звичайна",
       "scientific_name":"Fistulina hepatica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/232580030\/large.jpeg",
@@ -7601,7 +7601,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0431\u043e\u043b\u043e\u0442\u044f\u043d\u0438\u0439",
+      "common_name":"Підберезник болотяний",
       "scientific_name":"Leccinum holopus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/91465426\/large.jpeg",
@@ -7639,7 +7639,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Підберезник звичайний",
       "scientific_name":"Leccinum scabrum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/543959375\/large.jpg",
@@ -7677,7 +7677,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0440\u0456\u0437\u043d\u043e\u043a\u043e\u043b\u044c\u043e\u0440\u043e\u0432\u0438\u0439",
+      "common_name":"Підберезник різнокольоровий",
       "scientific_name":"Leccinum variicolor",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/320107195\/large.jpeg",
@@ -7715,7 +7715,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0440\u043e\u0436\u0435\u0432\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Підберезник рожевіючий",
       "scientific_name":"Leccinum roseofractum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/223425017\/large.jpeg",
@@ -7753,7 +7753,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0442\u0432\u0435\u0440\u0434\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Підберезник твердуватий",
       "scientific_name":"Leccinum duriusculum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/729678785\/large.jpg",
@@ -7791,7 +7791,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0447\u043e\u0440\u043d\u0438\u0439",
+      "common_name":"Підберезник чорний",
       "scientific_name":"Leccinum melaneum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/745362369\/large.jpg",
@@ -7829,7 +7829,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0431\u0435\u0440\u0435\u0437\u043d\u0438\u043a \u0447\u043e\u0440\u043d\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Підберезник чорніючий",
       "scientific_name":"Leccinellum crocipodium",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/311472675\/large.jpeg",
@@ -7867,7 +7867,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0432\u0438\u0448\u0435\u043d\u044c",
+      "common_name":"Підвишень",
       "scientific_name":"Clitopilus prunulus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/301022819\/large.jpeg",
@@ -7905,7 +7905,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u0432\u0456\u043b\u044c\u0448\u0430\u043d\u043d\u0438\u043a \u0441\u0438\u0437\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Підвільшанник сизуватий",
       "scientific_name":"Gyrodon lividus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/568644726\/large.jpg",
@@ -7943,7 +7943,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u043e\u0441\u0438\u043a\u043e\u0432\u0438\u043a \u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Підосиковик червоний",
       "scientific_name":"Leccinum aurantiacum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/338421413\/large.jpeg",
@@ -7981,7 +7981,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u043e\u0441\u0438\u043d\u043e\u0432\u0438\u043a \u0434\u0443\u0431\u043e\u0432\u0438\u0439",
+      "common_name":"Підосиновик дубовий",
       "scientific_name":"Leccinum quercinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/230625221\/large.jpeg",
@@ -8019,7 +8019,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u043e\u0441\u0438\u043d\u043e\u0432\u0438\u043a \u0441\u043e\u0441\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Підосиновик сосновий",
       "scientific_name":"Leccinum vulpinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/79617417\/large.jpeg",
@@ -8057,7 +8057,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u043e\u0441\u0438\u0447\u043d\u0438\u043a \u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Підосичник білий",
       "scientific_name":"Leccinum percandidum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/180556489\/large.jpg",
@@ -8095,7 +8095,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u0456\u0434\u043e\u0441\u0438\u0447\u043d\u0438\u043a \u0436\u043e\u0432\u0442\u043e-\u0431\u0443\u0440\u0438\u0439",
+      "common_name":"Підосичник жовто-бурий",
       "scientific_name":"Leccinum versipelle",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/682559556\/large.jpg",
@@ -8133,7 +8133,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u043e\u043b\u0435\u043d\u044f\u0447\u0438\u0439",
+      "common_name":"Плютей оленячий",
       "scientific_name":"Pluteus cervinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/740871595\/large.jpg",
@@ -8171,7 +8171,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u043e\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0433\u0440\u0438\u0431",
+      "common_name":"Польський гриб",
       "scientific_name":"Imleria badia",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/103859787\/large.jpg",
@@ -8209,7 +8209,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u041f\u043e\u0440\u0445\u0430\u0432\u043a\u0430 \u0447\u043e\u0440\u043d\u0456\u044e\u0447\u0430",
+      "common_name":"Порхавка чорніюча",
       "scientific_name":"Bovista nigrescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/753441207\/large.jpg",
@@ -8247,7 +8247,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u0430\u043c\u0430\u0440\u0456\u044f \u0436\u043e\u0432\u0442\u0430",
+      "common_name":"Рамарія жовта",
       "scientific_name":"Ramaria flava",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/727066835\/large.jpg",
@@ -8258,7 +8258,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u0438\u0436\u0438\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Рижик звичайний",
       "scientific_name":"Lactarius deliciosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/230230391\/large.jpeg",
@@ -8296,7 +8296,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u0438\u0436\u0438\u043a \u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Рижик червоний",
       "scientific_name":"Lactarius sanguifluus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/246588419\/large.jpeg",
@@ -8334,7 +8334,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u0438\u0436\u0438\u043a \u044f\u043b\u0438\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Рижик ялиновий",
       "scientific_name":"Lactarius deterrimus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/547813673\/large.jpg",
@@ -8372,7 +8372,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u0438\u0437\u043e\u043f\u043e\u0433\u043e\u043d \u0436\u043e\u0432\u0442\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Ризопогон жовтуватий",
       "scientific_name":"Rhizopogon obtectus",
       "images":[
 
@@ -8381,7 +8381,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u043e\u0434\u043e\u043a\u043e\u043b\u0456\u0431\u0456\u044f \u043c\u0430\u0441\u043b\u044f\u043d\u0430",
+      "common_name":"Родоколібія масляна",
       "scientific_name":"Rhodocollybia butyracea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/594988896\/large.jpg",
@@ -8419,7 +8419,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0432\u0437\u0443\u0442\u0430",
+      "common_name":"Рядовка взута",
       "scientific_name":"Tricholoma caligatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/102384713\/large.jpg",
@@ -8457,7 +8457,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0430\u0440\u043a\u043e\u0441\u0446\u0438\u0444\u0430 \u0447\u0435\u0440\u0432\u043e\u043d\u0430",
+      "common_name":"Саркосцифа червона",
       "scientific_name":"Sarcoscypha coccinea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/259017980\/large.jpeg",
@@ -8495,7 +8495,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0431\u0456\u043b\u0430",
+      "common_name":"Сироїжка біла",
       "scientific_name":"Russula delica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/404262525\/large.jpg",
@@ -8533,7 +8533,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0431\u043e\u043b\u043e\u0442\u044f\u043d\u0430",
+      "common_name":"Сироїжка болотяна",
       "scientific_name":"Russula paludosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/553632507\/large.jpg",
@@ -8571,7 +8571,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0431\u0443\u0440\u0456\u044e\u0447\u0430",
+      "common_name":"Сироїжка буріюча",
       "scientific_name":"Russula xerampelina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/582218067\/large.jpg",
@@ -8609,7 +8609,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0437\u0435\u043b\u0435\u043d\u0430",
+      "common_name":"Сироїжка зелена",
       "scientific_name":"Russula aeruginea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/300053955\/large.jpg",
@@ -8647,7 +8647,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u0430",
+      "common_name":"Сироїжка золотиста",
       "scientific_name":"Russula aurea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/31783452\/large.jpg",
@@ -8685,7 +8685,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0457\u0441\u0442\u0456\u0432\u043d\u0430",
+      "common_name":"Сироїжка їстівна",
       "scientific_name":"Russula vesca",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/442649489\/large.jpeg",
@@ -8723,7 +8723,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u043b\u0443\u0441\u043a\u0430\u0442\u0430",
+      "common_name":"Сироїжка луската",
       "scientific_name":"Russula virescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/315223718\/large.jpg",
@@ -8761,7 +8761,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0440\u0456\u0437\u043d\u043e\u043f\u043b\u0430\u0441\u0442\u0438\u043d\u0447\u0430\u0441\u0442\u0430",
+      "common_name":"Сироїжка різнопластинчаста",
       "scientific_name":"Russula heterophylla",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/557676491\/large.jpg",
@@ -8799,7 +8799,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0441\u0432\u0456\u0442\u043b\u043e-\u0436\u043e\u0432\u0442\u0430",
+      "common_name":"Сироїжка світло-жовта",
       "scientific_name":"Russula claroflava",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/257939501\/large.jpeg",
@@ -8837,7 +8837,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0441\u0438\u043d\u044c\u043e-\u0437\u0435\u043b\u0435\u043d\u0430",
+      "common_name":"Сироїжка синьо-зелена",
       "scientific_name":"Russula cyanoxantha",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/241744886\/large.jpg",
@@ -8875,7 +8875,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0441\u0456\u0440\u0456\u044e\u0447\u0430",
+      "common_name":"Сироїжка сіріюча",
       "scientific_name":"Russula decolorans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/310047780\/large.jpeg",
@@ -8913,7 +8913,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0444\u0456\u043e\u043b\u0435\u0442\u043e\u0432\u043e-\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0430",
+      "common_name":"Сироїжка фіолетово-коричнева",
       "scientific_name":"Russula brunneoviolacea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/422763855\/large.jpeg",
@@ -8942,7 +8942,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0446\u0456\u043b\u044c\u043d\u0430",
+      "common_name":"Сироїжка цільна",
       "scientific_name":"Russula integra",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/555908027\/large.jpg",
@@ -8980,7 +8980,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0447\u043e\u0440\u043d\u043e-\u043f\u0443\u0440\u043f\u0443\u0440\u043e\u0432\u0430",
+      "common_name":"Сироїжка чорно-пурпурова",
       "scientific_name":"Russula atropurpurea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/673341853\/large.jpg",
@@ -9018,7 +9018,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u043f\u0430\u0440\u0430\u0441\u0438\u0441 \u043a\u0443\u0447\u0435\u0440\u044f\u0432\u0438\u0439",
+      "common_name":"Спарасис кучерявий",
       "scientific_name":"Sparassis crispa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/573240852\/large.jpg",
@@ -9056,7 +9056,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0421\u0442\u0440\u043e\u0431\u0456\u043b\u044e\u0440\u0443\u0441 \u0457\u0441\u0442\u0456\u0432\u043d\u0438\u0439",
+      "common_name":"Стробілюрус їстівний",
       "scientific_name":"Strobilurus esculentus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/356233176\/large.jpg",
@@ -9094,7 +9094,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u0437\u043e\u043d\u0442\u0438\u0447\u043d\u0438\u0439",
+      "common_name":"Трутовик зонтичний",
       "scientific_name":"Polyporus umbellatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/46643741\/large.jpg",
@@ -9132,7 +9132,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u043b\u0443\u0441\u043a\u0430\u0442\u0438\u0439",
+      "common_name":"Трутовик лускатий",
       "scientific_name":"Cerioporus squamosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/201515871\/large.jpeg",
@@ -9170,7 +9170,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u0441\u0456\u0440\u0447\u0430\u043d\u043e-\u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Трутовик сірчано-жовтий",
       "scientific_name":"Laetiporus sulphureus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/22521776\/large.jpeg",
@@ -9208,7 +9208,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0422\u0440\u044e\u0444\u0435\u043b\u044c \u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Трюфель білий",
       "scientific_name":"Choiromyces meandriformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/451095758\/large.jpg",
@@ -9243,7 +9243,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0447\u0435\u0440\u0432\u043e\u043d\u043e-\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0438\u0439",
+      "common_name":"Хрящ-молочник червоно-коричневий",
       "scientific_name":"Lactifluus volemus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/142656564\/large.jpg",
@@ -9281,7 +9281,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0427\u0430\u0441\u043d\u0438\u0447\u043d\u0438\u043a \u0432\u0435\u043b\u0438\u043a\u0438\u0439",
+      "common_name":"Часничник великий",
       "scientific_name":"Mycetinis alliaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/442847126\/large.jpeg",
@@ -9319,7 +9319,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0427\u0430\u0441\u043d\u0438\u0447\u043d\u0438\u043a \u0434\u0440\u0456\u0431\u043d\u0438\u0439",
+      "common_name":"Часничник дрібний",
       "scientific_name":"Mycetinis scorodonius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/719367422\/large.jpg",
@@ -9357,7 +9357,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0427\u0430\u0441\u043d\u0438\u0447\u043d\u0438\u043a \u0434\u0443\u0431\u043e\u0432\u0438\u0439",
+      "common_name":"Часничник дубовий",
       "scientific_name":"Marasmius prasiosmus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/105318623\/large.jpg",
@@ -9372,7 +9372,7 @@
       "edibility_precise":"edible"
    },
    {
-      "common_name":"\u0410\u0431\u043e\u0440\u0442\u0438\u043f\u043e\u0440 \u0434\u0432\u043e\u0440\u0456\u0447\u043d\u0438\u0439",
+      "common_name":"Абортипор дворічний",
       "scientific_name":"Abortiporus biennis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/139386504\/large.jpg",
@@ -9410,7 +9410,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0433\u0440\u043e\u0446\u0438\u0431\u0435 \u0441\u0442\u0435\u043f\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Агроцибе степовидна",
       "scientific_name":"Agrocybe pediades",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/410951119\/large.jpeg",
@@ -9448,7 +9448,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u043b\u043e\u043a\u043b\u0430\u0432\u0430\u0440\u0456\u044f \u043f\u0443\u0440\u043f\u0443\u0440\u043e\u0432\u0430",
+      "common_name":"Алоклаварія пурпурова",
       "scientific_name":"Alloclavaria purpurea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/575869896\/large.jpg",
@@ -9486,7 +9486,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u043b\u044c\u0431\u0430\u0442\u0440\u0435\u043b \u0433\u0440\u0435\u0431\u0456\u043d\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Альбатрел гребінчастий",
       "scientific_name":"Laeticutis cristata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/563181282\/large.jpg",
@@ -9524,7 +9524,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u043b\u044c\u0431\u0430\u0442\u0440\u0435\u043b \u0447\u0435\u0440\u0432\u043e\u043d\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Альбатрел червоніючий",
       "scientific_name":"Albatrellus subrubescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/110447936\/large.jpg",
@@ -9562,7 +9562,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0440\u0440\u0435\u043d\u0456\u044f \u043a\u0435\u043b\u0438\u0445\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Арренія келиховидна",
       "scientific_name":"Omphalina epichysium",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/577160896\/large.jpg",
@@ -9600,7 +9600,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0441\u043a\u043e\u043a\u043e\u0440\u0456\u043d\u0435 \u043c\u2019\u044f\u0441\u043d\u0430",
+      "common_name":"Аскокоріне м’ясна",
       "scientific_name":"Ascocoryne sarcoides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/345194916\/large.jpg",
@@ -9638,7 +9638,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0441\u043a\u043e\u043a\u043e\u0440\u0456\u043d\u0435 \u0446\u0438\u043b\u0456\u0445\u043d\u0456\u0443\u043c",
+      "common_name":"Аскокоріне циліхніум",
       "scientific_name":"Ascocoryne cylichnium",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/166155913\/large.jpg",
@@ -9676,7 +9676,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0441\u0442\u0435\u0440\u043e\u0444\u043e\u0440\u0430 \u0434\u043e\u0449\u043e\u0432\u0438\u043a\u043e\u0432\u0430",
+      "common_name":"Астерофора дощовикова",
       "scientific_name":"Asterophora lycoperdoides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/750395643\/large.jpg",
@@ -9714,7 +9714,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0443\u0440\u0430\u043d\u0442\u0438\u043f\u043e\u0440 \u043d\u0430\u0434\u043a\u043e\u043b\u043e\u0442\u0438\u0439",
+      "common_name":"Аурантипор надколотий",
       "scientific_name":"Aurantiporus fissilis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/445987700\/large.jpg",
@@ -9752,7 +9752,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0443\u0440\u0438\u043a\u0443\u043b\u0430\u0440\u0456\u043e\u043f\u0441\u0438\u0441 \u0432\u0443\u0445\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0438\u0439",
+      "common_name":"Аурикуларіопсис вухоподібний",
       "scientific_name":"Auriculariopsis ampla",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/28897352\/large.jpg",
@@ -9790,7 +9790,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0410\u0443\u0440\u0438\u0441\u043a\u0430\u043b\u044c\u043f\u0456\u0439 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Аурискальпій звичайний",
       "scientific_name":"Auriscalpium vulgare",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/438107688\/large.jpeg",
@@ -9828,7 +9828,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u043a\u0440\u0430\u0441\u0438\u0432\u043e\u043d\u0456\u0436\u043a\u043e\u0432\u0438\u0439",
+      "common_name":"Боровик красивоніжковий",
       "scientific_name":"Caloboletus calopus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/92406295\/large.jpeg",
@@ -9866,7 +9866,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0443\u043a\u043e\u0440\u0456\u043d\u0435\u043d\u0438\u0439",
+      "common_name":"Боровик укорінений",
       "scientific_name":"Caloboletus radicans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/553933690\/large.jpg",
@@ -9904,7 +9904,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0411\u0440\u0443\u043d\u043d\u0456\u043f\u0456\u043b\u0430 \u043f\u0440\u0438\u0445\u043e\u0432\u0430\u043d\u0430",
+      "common_name":"Брунніпіла прихована",
       "scientific_name":"Brunnipila clandestina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/252647787\/large.jpeg",
@@ -9926,7 +9926,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0412\u0456\u043d\u043d\u0430 \u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u044c\u043a\u0430",
+      "common_name":"Вінна американська",
       "scientific_name":"Wynnea americana",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/425764714\/large.jpeg",
@@ -9964,7 +9964,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0435\u0431\u0435\u043b\u043e\u043c\u0430 \u043e\u043f\u0435\u0440\u0435\u0437\u0430\u043d\u0430",
+      "common_name":"Гебелома оперезана",
       "scientific_name":"Hebeloma mesophaeum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/751878986\/large.jpg",
@@ -10002,7 +10002,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0435\u043b\u044c\u0432\u0435\u043b\u0430 \u0434\u043e\u0432\u0433\u043e\u043d\u043e\u0433\u0430",
+      "common_name":"Гельвела довгонога",
       "scientific_name":"Helvella macropus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/458046748\/large.jpg",
@@ -10040,7 +10040,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0435\u043c\u0456\u0444\u043e\u043b\u0456\u043e\u0442\u0430 \u0442\u043e\u043f\u043e\u043b\u0435\u0432\u0430",
+      "common_name":"Геміфоліота тополева",
       "scientific_name":"Hemipholiota populnea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/236683810\/large.jpeg",
@@ -10078,7 +10078,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0446\u0438\u0431\u0435 \u0442\u0443\u0440\u0443\u043d\u0434\u0430",
+      "common_name":"Гігроцибе турунда",
       "scientific_name":"Hygrocybe turunda",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/152021343\/large.jpg",
@@ -10116,7 +10116,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0456\u0434\u043d\u0435\u043b \u041f\u0435\u043a\u0430",
+      "common_name":"Гіднел Пека",
       "scientific_name":"Hydnellum peckii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/164301671\/large.jpeg",
@@ -10154,7 +10154,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0456\u043c\u043d\u043e\u043f\u0456\u043b \u0441\u043e\u0441\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Гімнопіл сосновий",
       "scientific_name":"Gymnopilus sapineus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/144032141\/large.jpeg",
@@ -10192,7 +10192,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0456\u043c\u043d\u043e\u043f\u0443\u0441 \u0432\u0435\u0440\u0435\u0442\u0435\u043d\u043e\u043d\u043e\u0433\u0438\u0439",
+      "common_name":"Гімнопус веретеноногий",
       "scientific_name":"Gymnopus fusipes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/574417374\/large.jpg",
@@ -10230,7 +10230,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u0456\u0444\u043e\u043b\u043e\u043c\u0430 \u043e\u0431\u043b\u044f\u043c\u043e\u0432\u0430\u043d\u0430",
+      "common_name":"Гіфолома облямована",
       "scientific_name":"Hypholoma marginatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/102478718\/large.jpg",
@@ -10268,7 +10268,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u043b\u0435\u043e\u0444\u0456\u043b \u0432\u0438\u0434\u043e\u0432\u0436\u0435\u043d\u0438\u0439",
+      "common_name":"Глеофіл видовжений",
       "scientific_name":"Gloeophyllum protractum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/68800642\/large.jpeg",
@@ -10290,7 +10290,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u043b\u0435\u043e\u0444\u0456\u043b \u043a\u043e\u043b\u043e\u0434\u043d\u0438\u0439",
+      "common_name":"Глеофіл колодний",
       "scientific_name":"Gloeophyllum trabeum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/433851693\/large.jpeg",
@@ -10328,7 +10328,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u043b\u0435\u043e\u0444\u0456\u043b \u044f\u043b\u0438\u0446\u0435\u0432\u0438\u0439",
+      "common_name":"Глеофіл ялицевий",
       "scientific_name":"Gloeophyllum abietinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/346510956\/large.jpg",
@@ -10366,7 +10366,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u043b\u0438\u0432\u0430 \u043f\u043e\u043a\u0440\u0438\u0442\u0430",
+      "common_name":"Глива покрита",
       "scientific_name":"Pleurotus calyptratus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/57698545\/large.jpeg",
@@ -10404,7 +10404,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0413\u043d\u043e\u0439\u043e\u0432\u0438\u043a \u0440\u043e\u0437\u0441\u0456\u044f\u043d\u0438\u0439",
+      "common_name":"Гнойовик розсіяний",
       "scientific_name":"Coprinellus disseminatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/5475543\/large.jpg",
@@ -10442,7 +10442,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u043f\u0440\u043e\u0434\u0430\u0432\u043b\u0435\u043d\u0430",
+      "common_name":"Ентолома продавлена",
       "scientific_name":"Entoloma rhodopolium",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/743190643\/large.jpg",
@@ -10480,7 +10480,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0441\u0438\u043d\u044e\u0432\u0430\u0442\u0430",
+      "common_name":"Ентолома синювата",
       "scientific_name":"Entoloma cyanulum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/148910157\/large.jpeg",
@@ -10494,7 +10494,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0448\u0435\u0440\u0448\u0430\u0432\u0435\u043d\u044c\u043a\u0430",
+      "common_name":"Ентолома шершавенька",
       "scientific_name":"Entoloma asprellum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/249350723\/large.jpg",
@@ -10513,7 +10513,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0417\u0456\u0440\u043a\u043e\u0432\u0438\u043a \u0431\u0430\u0445\u0440\u043e\u043c\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Зірковик бахромчастий",
       "scientific_name":"Geastrum fimbriatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/586370143\/large.jpg",
@@ -10551,7 +10551,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0430\u043b\u043e\u0441\u0442\u043e\u043c\u0430 \u043a\u0456\u043d\u043e\u0432\u0430\u0440\u043d\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0430",
+      "common_name":"Калостома кіноварно-червона",
       "scientific_name":"Calostoma cinnabarinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/707548969\/large.jpg",
@@ -10589,7 +10589,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0430\u043b\u043e\u0446\u0435\u0440\u0430 \u043a\u043b\u0435\u0439\u043a\u0430",
+      "common_name":"Калоцера клейка",
       "scientific_name":"Calocera viscosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/88600163\/large.jpeg",
@@ -10627,7 +10627,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0430\u0442\u0438\u043d\u0435\u043b\u0430 \u043e\u043b\u0438\u0432\u043a\u043e\u0432\u0430",
+      "common_name":"Катинела оливкова",
       "scientific_name":"Catinella olivacea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/250541373\/large.jpg",
@@ -10665,7 +10665,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u043b\u0430\u0442\u0440\u0443\u0441 \u0410\u0440\u0447\u0435\u0440\u0430",
+      "common_name":"Клатрус Арчера",
       "scientific_name":"Clathrus archeri",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/29808925\/large.jpg",
@@ -10703,7 +10703,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u043c\u0430\u043a\u043e\u0434\u043e\u043d \u043d\u0430\u0439\u043a\u0440\u0430\u0449\u0438\u0439",
+      "common_name":"Клімакодон найкращий",
       "scientific_name":"Climacodon pulcherrimus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/167327058\/large.jpg",
@@ -10741,7 +10741,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0440\u0435\u043f\u0456\u0434\u043e\u0442 \u0441\u043f\u043b\u044e\u0449\u0435\u043d\u0438\u0439",
+      "common_name":"Крепідот сплющений",
       "scientific_name":"Crepidotus applanatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/403352864\/large.jpeg",
@@ -10779,7 +10779,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0440\u0438\u043d\u0456\u043f\u0435\u043b\u043b\u0456\u0441 \u0448\u0435\u0440\u0448\u0430\u0432\u0435\u043d\u044c\u043a\u0438\u0439",
+      "common_name":"Криніпелліс шершавенький",
       "scientific_name":"Crinipellis scabella",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/80533251\/large.jpeg",
@@ -10817,7 +10817,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0441\u0435\u0440\u043e\u043c\u0444\u0430\u043b\u0456\u043d\u0430 \u041a\u0430\u0443\u0444\u043c\u0430\u043d\u0430",
+      "common_name":"Ксеромфаліна Кауфмана",
       "scientific_name":"Xeromphalina kauffmanii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/245874134\/large.jpg",
@@ -10855,7 +10855,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0441\u0435\u0440\u043e\u043c\u0444\u0430\u043b\u0456\u043d\u0430 \u0441\u0442\u0435\u0431\u043b\u0435\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Ксеромфаліна стеблевидна",
       "scientific_name":"Xeromphalina cauticinalis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/169950154\/large.jpeg",
@@ -10893,7 +10893,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0441\u0438\u043b\u0430\u0440\u0456\u044f \u0431\u0430\u0433\u0430\u0442\u043e\u043b\u0438\u043a\u0430",
+      "common_name":"Ксиларія багатолика",
       "scientific_name":"Xylaria polymorpha",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/518281804\/large.jpg",
@@ -10931,7 +10931,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0443\u0434\u043e\u043d\u0456\u044f \u0437\u0430\u043a\u0440\u0443\u0447\u0435\u043d\u0430",
+      "common_name":"Кудонія закручена",
       "scientific_name":"Cudonia circinans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/315428739\/large.jpeg",
@@ -10969,7 +10969,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041a\u0443\u0434\u043e\u043d\u0456\u044f \u0441\u0443\u043c\u043d\u0456\u0432\u043d\u0430",
+      "common_name":"Кудонія сумнівна",
       "scientific_name":"Cudonia confusa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/326197191\/large.jpeg",
@@ -11007,7 +11007,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u0449\u0438\u0442\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Лепіота щитовидна",
       "scientific_name":"Lepiota clypeolaria",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/605883459\/large.jpg",
@@ -11045,7 +11045,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041b\u0438\u0441\u0438\u0447\u043a\u0430 \u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u044f",
+      "common_name":"Лисичка несправжня",
       "scientific_name":"Hygrophoropsis aurantiaca",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/61520280\/large.jpg",
@@ -11083,7 +11083,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041b\u0443\u0441\u043a\u0430\u0442\u043a\u0430 \u0441\u043b\u0438\u0437\u0438\u0441\u0442\u0430",
+      "common_name":"Лускатка слизиста",
       "scientific_name":"Pholiota lubrica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/160627315\/large.jpeg",
@@ -11121,7 +11121,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0456\u0442\u0440\u0443\u043b\u0430 \u0431\u043e\u043b\u043e\u0442\u044f\u043d\u0430",
+      "common_name":"Мітрула болотяна",
       "scientific_name":"Mitrula paludosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/139004492\/large.jpg",
@@ -11159,7 +11159,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0456\u0446\u0435\u043d\u0430 \u0431\u043b\u0430\u043a\u0438\u0442\u043d\u0430",
+      "common_name":"Міцена блакитна",
       "scientific_name":"Mycena interrupta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/203766233\/large.jpg",
@@ -11197,7 +11197,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0456\u0446\u0435\u043d\u0430 \u043c\u0435\u043b\u0456\u0454\u0432\u0430",
+      "common_name":"Міцена мелієва",
       "scientific_name":"Mycena meliigena",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/232821070\/large.jpg",
@@ -11235,7 +11235,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0456\u0446\u0435\u043d\u0430 \u0445\u043b\u043e\u0440\u043e\u0444\u043e\u0441",
+      "common_name":"Міцена хлорофос",
       "scientific_name":"Mycena chlorophos",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/625234929\/large.jpg",
@@ -11273,7 +11273,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0443\u0442\u0438\u043d \u043c\u0430\u043b\u0438\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Мутин малиновий",
       "scientific_name":"Mutinus ravenelii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/130222568\/large.jpeg",
@@ -11311,7 +11311,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0443\u0442\u0438\u043d \u0441\u043e\u0431\u0430\u0447\u0438\u0439",
+      "common_name":"Мутин собачий",
       "scientific_name":"Mutinus caninus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/582089522\/large.jpg",
@@ -11349,7 +11349,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0412\u0456\u0442\u0442\u0430\u0434\u0456\u043d\u0456",
+      "common_name":"Мухомор Віттадіні",
       "scientific_name":"Saproamanita vittadinii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/202372213\/large.jpeg",
@@ -11387,7 +11387,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0448\u0438\u0448\u043a\u043e\u043f\u043e\u0434\u0456\u0431\u043d\u0438\u0439",
+      "common_name":"Мухомор шишкоподібний",
       "scientific_name":"Amanita strobiliformis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/325200688\/large.jpeg",
@@ -11425,7 +11425,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041d\u0430\u0443\u043a\u043e\u0440\u0456\u044f \u043e\u0431\u0441\u0438\u043f\u0430\u043d\u0430",
+      "common_name":"Наукорія обсипана",
       "scientific_name":"Naucoria subconspersa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/553079549\/large.jpg"
@@ -11434,7 +11434,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041d\u0435\u0433\u043d\u0438\u044e\u0447\u043d\u0438\u043a \u043d\u0430\u0439\u043d\u0456\u0436\u043d\u0456\u0448\u0438\u0439",
+      "common_name":"Негниючник найніжніший",
       "scientific_name":"Marasmius wettsteinii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/732908110\/large.jpg",
@@ -11472,7 +11472,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041e\u043c\u0444\u0430\u043b\u0456\u043d\u0430 \u043a\u0430\u043b\u0456\u0447\u043d\u0430",
+      "common_name":"Омфаліна калічна",
       "scientific_name":"Omphalina mutila",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/297008547\/large.jpeg",
@@ -11482,7 +11482,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439 \u0446\u0435\u0433\u043b\u044f\u043d\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Опеньок несправжній цегляно-червоний",
       "scientific_name":"Hypholoma lateritium",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/332235201\/large.jpg",
@@ -11520,7 +11520,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043a\u043e\u0437\u044f\u0447\u0438\u0439",
+      "common_name":"Павутинник козячий",
       "scientific_name":"Cortinarius traganus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/310613327\/large.jpg",
@@ -11558,7 +11558,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043f\u043b\u0456\u0432\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Павутинник плівчастий",
       "scientific_name":"Cortinarius paleaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/107147579\/large.jpg",
@@ -11596,7 +11596,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u0430\u043d\u0435\u043b \u043c\u2019\u044f\u043a\u0438\u0439",
+      "common_name":"Панел м’який",
       "scientific_name":"Panellus mitis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/492134015\/large.jpeg",
@@ -11634,7 +11634,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u0435\u0446\u0438\u0446\u044f \u043c\u0456\u043d\u043b\u0438\u0432\u0430",
+      "common_name":"Пециця мінлива",
       "scientific_name":"Peziza varia",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/13341342\/large.jpg",
@@ -11672,7 +11672,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u0438\u043b\u043e\u043b\u0438\u0441\u0442\u043d\u0438\u043a \u0431\u043e\u0440\u043e\u0437\u043d\u0438\u0441\u0442\u0438\u0439",
+      "common_name":"Пилолистник борознистий",
       "scientific_name":"Heliocybe sulcata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/37741096\/large.jpeg",
@@ -11710,7 +11710,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u0431\u0443\u043b\u044c\u0431\u043e\u0432\u0438\u0439",
+      "common_name":"Плютей бульбовий",
       "scientific_name":"Pluteus semibulbosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/205731144\/large.jpeg",
@@ -11746,7 +11746,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u0436\u0438\u043b\u043a\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Плютей жилкуватий",
       "scientific_name":"Pluteus phlebophorus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/687398370\/large.jpg",
@@ -11784,7 +11784,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u043e-\u0437\u0430\u0431\u0430\u0440\u0432\u043b\u0435\u043d\u0438\u0439",
+      "common_name":"Плютей золотисто-забарвлений",
       "scientific_name":"Pluteus chrysophaeus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/97081988\/large.jpeg",
@@ -11822,7 +11822,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u0424\u0435\u043d\u0446\u043b\u044f",
+      "common_name":"Плютей Фенцля",
       "scientific_name":"Pluteus fenzlii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/690686338\/large.jpg",
@@ -11860,7 +11860,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u0448\u043e\u0440\u0441\u0442\u043a\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Плютей шорсткуватий",
       "scientific_name":"Pluteus hispidulus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/245238400\/large.jpeg",
@@ -11890,7 +11890,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043e\u0440\u0444\u0438\u0440\u043e\u0432\u0438\u043a \u043f\u0443\u0440\u043f\u0443\u0440\u043e\u0432\u043e\u0441\u043f\u043e\u0440\u043e\u0432\u0438\u0439",
+      "common_name":"Порфировик пурпуровоспоровий",
       "scientific_name":"Porphyrellus pseudoscaber",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/229113134\/large.jpeg",
@@ -11928,7 +11928,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u043e\u0441\u0442\u0456\u044f \u0441\u0456\u0440\u043e-\u0433\u043e\u043b\u0443\u0431\u0430",
+      "common_name":"Постія сіро-голуба",
       "scientific_name":"Postia caesia",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/104053873\/large.jpeg",
@@ -11966,7 +11966,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u041f\u0441\u0430\u0442\u0438\u0440\u0435\u043b\u043b\u0430 \u043e\u043b\u0456\u043c\u043f\u0456\u0439\u0441\u044c\u043a\u0430",
+      "common_name":"Псатирелла олімпійська",
       "scientific_name":"Psathyrella olympiana",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/584950572\/large.jpg",
@@ -11983,7 +11983,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0420\u0435\u0448\u0456\u0442\u043e\u0447\u043d\u0438\u043a \u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Решіточник червоний",
       "scientific_name":"Clathrus ruber",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/43575448\/large.jpg",
@@ -12021,7 +12021,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0420\u043e\u0434\u043e\u0442 \u043f\u0430\u043b\u044c\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Родот пальчастий",
       "scientific_name":"Rhodotus palmatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/249793000\/large.jpg",
@@ -12059,7 +12059,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0420\u043e\u0437\u0449\u0435\u043f\u043a\u0430 \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0430",
+      "common_name":"Розщепка звичайна",
       "scientific_name":"Schizophyllum commune",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/614907478\/large.jpg",
@@ -12097,7 +12097,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0432\u0456\u0434\u043e\u043a\u0440\u0435\u043c\u043b\u0435\u043d\u0430",
+      "common_name":"Рядовка відокремлена",
       "scientific_name":"Tricholoma sejunctum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/233295223\/large.jpeg",
@@ -12135,7 +12135,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u043c\u0438\u043b\u044c\u043d\u0430",
+      "common_name":"Рядовка мильна",
       "scientific_name":"Tricholoma saponaceum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/347444106\/large.jpg",
@@ -12173,7 +12173,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u043e\u043f\u0435\u0440\u0435\u0437\u0430\u043d\u0430",
+      "common_name":"Рядовка оперезана",
       "scientific_name":"Tricholoma cingulatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/753446560\/large.jpg",
@@ -12211,7 +12211,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0421\u0430\u0440\u043a\u043e\u0441\u043e\u043c\u0430 \u043a\u0443\u043b\u044f\u0441\u0442\u0430",
+      "common_name":"Саркосома куляста",
       "scientific_name":"Sarcosoma globosum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/259972082\/large.jpeg",
@@ -12249,7 +12249,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0421\u0432\u0438\u043d\u0443\u0445\u0430 \u0442\u043e\u0432\u0441\u0442\u0430",
+      "common_name":"Свинуха товста",
       "scientific_name":"Tapinella atrotomentosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/556921586\/large.jpg",
@@ -12287,7 +12287,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0421\u0438\u0437\u0438\u0433\u043e\u0441\u043f\u043e\u0440\u0430 \u0433\u0440\u0438\u0431\u043e\u043b\u044e\u0431\u043d\u0430",
+      "common_name":"Сизигоспора гриболюбна",
       "scientific_name":"Syzygospora mycetophila",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/541324817\/large.jpg",
@@ -12325,7 +12325,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0421\u0438\u043c\u043e\u0446\u0438\u0431\u0435 \u043a\u043b\u0430\u043f\u0442\u0435\u0432\u0430",
+      "common_name":"Симоцибе клаптева",
       "scientific_name":"Simocybe centunculus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/329252594\/large.jpg",
@@ -12363,7 +12363,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u0431\u043b\u044e\u0432\u043e\u0442\u043d\u0430",
+      "common_name":"Сироїжка блювотна",
       "scientific_name":"Russula emetica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/589845321\/large.jpg",
@@ -12401,7 +12401,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u043a\u0440\u0438\u0445\u043a\u0430",
+      "common_name":"Сироїжка крихка",
       "scientific_name":"Russula fragilis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/329694366\/large.jpeg",
@@ -12439,7 +12439,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0430\u0440\u0437\u0435\u0442\u0442\u0430 \u0431\u043e\u0447\u043a\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Тарзетта бочковидна",
       "scientific_name":"Tarzetta cupularis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/466978293\/large.jpeg",
@@ -12477,7 +12477,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0430\u043c\u0435\u0442\u0435\u0441 \u0440\u0456\u0437\u043d\u043e\u043a\u043e\u043b\u044c\u043e\u0440\u043e\u0432\u0438\u0439",
+      "common_name":"Траметес різнокольоровий",
       "scientific_name":"Trametes versicolor",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/228675326\/large.jpeg",
@@ -12515,7 +12515,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0456\u0445\u0430\u043f\u0442\u0443\u043c \u043c\u043e\u0434\u0440\u0438\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Тріхаптум модриновий",
       "scientific_name":"Trichaptum laricinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/322315003\/large.jpg",
@@ -12546,7 +12546,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u0431\u0435\u0440\u0435\u0437\u043e\u0432\u0438\u0439",
+      "common_name":"Трутовик березовий",
       "scientific_name":"Fomitopsis betulina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/547533300\/large.jpg",
@@ -12584,7 +12584,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u043b\u0430\u043a\u043e\u0432\u0430\u043d\u0438\u0439",
+      "common_name":"Трутовик лакований",
       "scientific_name":"Ganoderma lucidum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/321791479\/large.jpg",
@@ -12622,7 +12622,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439 \u0434\u0443\u0431\u043e\u0432\u0438\u0439",
+      "common_name":"Трутовик несправжній дубовий",
       "scientific_name":"Fomitiporia robusta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/45725233\/large.jpeg",
@@ -12660,7 +12660,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u043f\u043b\u043e\u0441\u043a\u0438\u0439",
+      "common_name":"Трутовик плоский",
       "scientific_name":"Ganoderma applanatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/568136951\/large.jpg",
@@ -12698,7 +12698,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u0441\u043e\u0441\u043d\u043e\u043b\u044e\u0431\u0438\u0432\u0438\u0439",
+      "common_name":"Трутовик соснолюбивий",
       "scientific_name":"Fomitopsis pinicola",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/348292160\/large.jpeg",
@@ -12736,7 +12736,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u0443\u0442\u043e\u0432\u0438\u043a \u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439",
+      "common_name":"Трутовик справжній",
       "scientific_name":"Fomes fomentarius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/426276524\/large.jpeg",
@@ -12774,7 +12774,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0422\u0440\u044e\u0444\u0435\u043b\u044c \u043e\u043b\u0435\u043d\u044f\u0447\u0438\u0439",
+      "common_name":"Трюфель оленячий",
       "scientific_name":"Elaphomyces granulatus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/540788162\/large.jpg",
@@ -12812,7 +12812,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0423\u0440\u043d\u0443\u043b\u0430 \u0431\u043e\u043a\u0430\u043b\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Урнула бокаловидна",
       "scientific_name":"Urnula craterium",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/186136765\/large.jpg",
@@ -12850,7 +12850,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0424\u0456\u043b\u043e\u0442\u0438\u043f\u0441\u0438\u0441 \u0433\u043d\u0456\u0437\u0434\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Філотипсис гніздовидний",
       "scientific_name":"Phyllotopsis nidulans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/173661086\/large.jpg",
@@ -12888,7 +12888,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0424\u043e\u043b\u0456\u043e\u0442\u0430 \u0432\u0456\u043b\u044c\u0445\u043e\u0432\u0430",
+      "common_name":"Фоліота вільхова",
       "scientific_name":"Pholiota alnicola",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/319911164\/large.jpeg",
@@ -12926,7 +12926,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0424\u043e\u043b\u0456\u043e\u0442\u0430 \u0432\u043e\u0433\u043d\u044f\u043d\u0430",
+      "common_name":"Фоліота вогняна",
       "scientific_name":"Pholiota flammans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/571061161\/large.jpg",
@@ -12964,7 +12964,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0424\u0443\u043b\u0456\u0433\u043e \u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Фуліго жовтий",
       "scientific_name":"Fuligo septica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/661585216\/large.jpg",
@@ -13002,7 +13002,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0425\u0435\u0439\u043b\u0456\u043c\u0435\u043d\u0456\u044f \u0437\u0435\u0440\u043d\u0438\u0441\u0442\u0430",
+      "common_name":"Хейліменія зерниста",
       "scientific_name":"Cheilymenia granulata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/11890964\/large.jpg",
@@ -13040,7 +13040,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0425\u0440\u043e\u043c\u043e\u0437\u0435\u0440\u0430 \u0441\u0438\u043d\u0435\u043f\u043b\u0430\u0441\u0442\u0438\u043d\u043a\u043e\u0432\u0430",
+      "common_name":"Хромозера синепластинкова",
       "scientific_name":"Chromosera cyanophylla",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/573829177\/large.jpg",
@@ -13078,7 +13078,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0431\u0443\u0440\u043e-\u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Хрящ-молочник буро-жовтий",
       "scientific_name":"Lactarius fulvissimus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/329789433\/large.jpg",
@@ -13116,7 +13116,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u043f\u043e\u043c\u0430\u0440\u0430\u043d\u0447\u0435\u0432\u0438\u0439",
+      "common_name":"Хрящ-молочник помаранчевий",
       "scientific_name":"Lactarius porninsis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/749364870\/large.jpg",
@@ -13154,7 +13154,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0425\u0440\u044f\u0449-\u043c\u043e\u043b\u043e\u0447\u043d\u0438\u043a \u0441\u0456\u0440\u043e-\u0440\u043e\u0436\u0435\u0432\u0438\u0439",
+      "common_name":"Хрящ-молочник сіро-рожевий",
       "scientific_name":"Lactarius helvus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/714302056\/large.jpg",
@@ -13192,7 +13192,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0427\u0430\u0433\u0430 \u0430\u0431\u043e \u0427\u043e\u0440\u043d\u0438\u0439 \u0431\u0435\u0440\u0435\u0437\u043e\u0432\u0438\u0439 \u0433\u0440\u0438\u0431",
+      "common_name":"Чага або Чорний березовий гриб",
       "scientific_name":"Inonotus obliquus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/232646623\/large.jpg",
@@ -13230,7 +13230,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0428\u0438\u0448\u043a\u043e\u0433\u0440\u0438\u0431 \u043b\u0443\u0441\u043a\u0430\u0442\u0438\u0439",
+      "common_name":"Шишкогриб лускатий",
       "scientific_name":"Strobilomyces strobilaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/579241567\/large.jpg",
@@ -13268,7 +13268,7 @@
       "edibility_precise":"inedible"
    },
    {
-      "common_name":"\u0411\u043b\u0456\u0434\u0430 \u043f\u043e\u0433\u0430\u043d\u043a\u0430",
+      "common_name":"Бліда поганка",
       "scientific_name":"Amanita phalloides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/60488336\/large.jpeg",
@@ -13306,7 +13306,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u043c\u2019\u044f\u0441\u043e-\u043a\u0440\u0438\u0432\u0430\u0432\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Боровик м’ясо-криваво-червоний",
       "scientific_name":"Rubroboletus legaliae",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/733107330\/large.jpg",
@@ -13344,7 +13344,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u043f\u0440\u0435\u043a\u0440\u0430\u0441\u043d\u0438\u0439",
+      "common_name":"Боровик прекрасний",
       "scientific_name":"Rubroboletus pulcherrimus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/239414843\/large.jpg",
@@ -13382,7 +13382,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0411\u043e\u0440\u043e\u0432\u0438\u043a \u0440\u043e\u0436\u0435\u0432\u043e\u0448\u043a\u0456\u0440\u0438\u0439",
+      "common_name":"Боровик рожевошкірий",
       "scientific_name":"Rubroboletus rhodoxanthus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/429135644\/large.jpg",
@@ -13420,7 +13420,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0430\u043b\u0435\u0440\u0438\u043d\u0430 \u0431\u043e\u043b\u043e\u0442\u044f\u043d\u0430",
+      "common_name":"Галерина болотяна",
       "scientific_name":"Galerina paludosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/691827904\/large.jpg",
@@ -13458,7 +13458,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0430\u043b\u0435\u0440\u0438\u043d\u0430 \u043c\u043e\u0445\u043e\u0432\u0430",
+      "common_name":"Галерина мохова",
       "scientific_name":"Galerina hypnorum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/386507121\/large.jpeg",
@@ -13496,7 +13496,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0430\u043b\u0435\u0440\u0438\u043d\u0430 \u043e\u0442\u043e\u0440\u043e\u0447\u043a\u0443\u0432\u0430\u0442\u0430",
+      "common_name":"Галерина оторочкувата",
       "scientific_name":"Galerina marginata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/58671856\/large.jpeg",
@@ -13534,7 +13534,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0435\u0431\u0435\u043b\u043e\u043c\u0430 \u0432\u0443\u0433\u043b\u0435\u043b\u044e\u0431\u0438\u0432\u0430",
+      "common_name":"Гебелома вуглелюбива",
       "scientific_name":"Hebeloma birrus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/595269383\/large.jpg",
@@ -13547,7 +13547,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0435\u0431\u0435\u043b\u043e\u043c\u0430 \u0433\u0456\u0440\u0447\u0438\u0447\u043d\u0430",
+      "common_name":"Гебелома гірчична",
       "scientific_name":"Hebeloma sinapizans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/442612678\/large.jpeg",
@@ -13585,7 +13585,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0435\u0431\u0435\u043b\u043e\u043c\u0430 \u043a\u043b\u0435\u0439\u043a\u0430",
+      "common_name":"Гебелома клейка",
       "scientific_name":"Hebeloma crustuliniforme",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/700747990\/large.jpg",
@@ -13623,7 +13623,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0435\u0431\u0435\u043b\u043e\u043c\u0430 \u043d\u0435\u0434\u043e\u0441\u044f\u0436\u043d\u0430",
+      "common_name":"Гебелома недосяжна",
       "scientific_name":"Hebeloma fastibile",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/596162228\/large.jpg",
@@ -13661,7 +13661,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0446\u0438\u0431\u0435 \u0433\u043e\u0441\u0442\u0440\u043e\u043a\u043e\u043d\u0443\u0441\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Гігроцибе гостроконусовидна",
       "scientific_name":"Hygrocybe acutoconica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/335456430\/large.jpeg",
@@ -13699,7 +13699,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0456\u0433\u0440\u043e\u0446\u0438\u0431\u0435 \u043a\u043e\u043d\u0456\u0447\u043d\u0430",
+      "common_name":"Гігроцибе конічна",
       "scientific_name":"Hygrocybe conica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/154215053\/large.jpg",
@@ -13737,7 +13737,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0456\u043c\u043d\u043e\u043f\u0456\u043b \u042e\u043d\u043e\u043d\u0438",
+      "common_name":"Гімнопіл Юнони",
       "scientific_name":"Gymnopilus junonius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/100234693\/large.jpeg",
@@ -13775,7 +13775,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0456\u0440\u043e\u043f\u043e\u0440 \u043f\u0456\u0449\u0430\u043d\u0438\u0439",
+      "common_name":"Гіропор піщаний",
       "scientific_name":"Gyroporus ammophilus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/345045514\/large.jpeg",
@@ -13787,7 +13787,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u043d\u043e\u0439\u043e\u0432\u0438\u043a \u0441\u043e\u0440\u043e\u0447\u0438\u0439",
+      "common_name":"Гнойовик сорочий",
       "scientific_name":"Coprinopsis picacea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/341133418\/large.jpeg",
@@ -13825,7 +13825,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u043e\u043c\u0444\u0443\u0441 \u043b\u0443\u0441\u043a\u0430\u0442\u0438\u0439",
+      "common_name":"Гомфус лускатий",
       "scientific_name":"Turbinellus floccosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/46462991\/large.jpg",
@@ -13863,7 +13863,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0413\u0440\u0438\u0431-\u0437\u043e\u043d\u0442\u0438\u043a \u041c\u043e\u0440\u0433\u0430\u043d\u0430",
+      "common_name":"Гриб-зонтик Моргана",
       "scientific_name":"Chlorophyllum molybdites",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/528975846\/large.jpg",
@@ -13901,7 +13901,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0414\u0435\u043a\u043e\u043d\u0456\u043a\u0430 \u0433\u0456\u0440\u0441\u044c\u043a\u0430",
+      "common_name":"Деконіка гірська",
       "scientific_name":"Deconica montana",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/252274903\/large.jpg",
@@ -13939,7 +13939,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0414\u0435\u043a\u043e\u043d\u0456\u043a\u0430 \u0433\u043d\u043e\u0439\u043e\u0432\u0438\u043a\u043e\u0432\u0430",
+      "common_name":"Деконіка гнойовикова",
       "scientific_name":"Deconica merdaria",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/467638682\/large.jpg",
@@ -13964,7 +13964,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0414\u0438\u0441\u0446\u0438\u043d\u0430 \u0433\u043e\u0441\u0442\u0440\u043e\u0432\u0435\u0440\u0445\u0430",
+      "common_name":"Дисцина гостроверха",
       "scientific_name":"Gyromitra fastigiata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/76737344\/large.jpg",
@@ -14002,7 +14002,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0414\u043e\u0449\u043e\u0432\u0438\u043a \u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439",
+      "common_name":"Дощовик несправжній",
       "scientific_name":"Scleroderma citrinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/159296736\/large.jpeg",
@@ -14040,7 +14040,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0432\u0435\u0441\u043d\u044f\u043d\u0430",
+      "common_name":"Ентолома весняна",
       "scientific_name":"Entoloma vernum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/126314874\/large.jpeg",
@@ -14078,7 +14078,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0437\u0456\u0431\u0440\u0430\u043d\u0430",
+      "common_name":"Ентолома зібрана",
       "scientific_name":"Entoloma conferendum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/599025873\/large.jpg",
@@ -14116,7 +14116,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u043e\u0442\u0440\u0443\u0439\u043d\u0430",
+      "common_name":"Ентолома отруйна",
       "scientific_name":"Entoloma sinuatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/260715137\/large.jpg",
@@ -14154,7 +14154,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0441\u0438\u0432\u0443\u0432\u0430\u0442\u0430",
+      "common_name":"Ентолома сивувата",
       "scientific_name":"Entoloma incanum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/310409788\/large.jpg",
@@ -14192,7 +14192,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0441\u0438\u0437\u043e-\u0431\u0456\u043b\u0430",
+      "common_name":"Ентолома сизо-біла",
       "scientific_name":"Entoloma lividoalbum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/596067509\/large.jpg",
@@ -14230,7 +14230,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0415\u043d\u0442\u043e\u043b\u043e\u043c\u0430 \u0449\u0438\u0442\u043e\u043d\u043e\u0441\u043d\u0430",
+      "common_name":"Ентолома щитоносна",
       "scientific_name":"Entoloma cetratum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/129320409\/large.jpeg",
@@ -14268,7 +14268,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0416\u043e\u0432\u0447\u043d\u0438\u0439 \u0433\u0440\u0438\u0431",
+      "common_name":"Жовчний гриб",
       "scientific_name":"Tylopilus felleus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/45234778\/large.jpg",
@@ -14306,7 +14306,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u0432\u043e\u043b\u043e\u043a\u043d\u0438\u0441\u0442\u0438\u0439",
+      "common_name":"Іноцибе волокнистий",
       "scientific_name":"Inocybe rimosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/576418571\/large.jpg",
@@ -14344,7 +14344,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u0433\u043e\u0441\u0442\u0440\u0438\u0439",
+      "common_name":"Іноцибе гострий",
       "scientific_name":"Inocybe acuta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/420879911\/large.jpeg",
@@ -14361,7 +14361,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u0437\u0435\u043c\u043b\u044f\u043d\u0438\u0439",
+      "common_name":"Іноцибе земляний",
       "scientific_name":"Inocybe geophylla",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/326609316\/large.jpg",
@@ -14399,7 +14399,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u041f\u0430\u0442\u0443\u0439\u044f\u0440\u0430",
+      "common_name":"Іноцибе Патуйяра",
       "scientific_name":"Inosperma erubescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/197217252\/large.jpeg",
@@ -14437,7 +14437,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u0440\u0456\u043f\u0447\u0430\u0441\u0442\u0438\u0439",
+      "common_name":"Іноцибе ріпчастий",
       "scientific_name":"Inocybe napipes",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/451121212\/large.jpeg",
@@ -14475,7 +14475,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u0440\u043e\u0437\u0456\u0440\u0432\u0430\u043d\u0438\u0439",
+      "common_name":"Іноцибе розірваний",
       "scientific_name":"Inocybe lacera",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/706487367\/large.jpg",
@@ -14513,7 +14513,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0406\u043d\u043e\u0446\u0438\u0431\u0435 \u0441\u0445\u043e\u0436\u0438\u0439",
+      "common_name":"Іноцибе схожий",
       "scientific_name":"Inocybe assimilata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/602862239\/large.jpg",
@@ -14543,7 +14543,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0431\u0456\u043b\u0443\u0432\u0430\u0442\u0438\u0439",
+      "common_name":"Клітоцибе білуватий",
       "scientific_name":"Leucocybe candicans",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/175598100\/large.jpeg",
@@ -14581,7 +14581,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0431\u043b\u0456\u0434\u043e\u0437\u0430\u0431\u0430\u0440\u0432\u043b\u0435\u043d\u0438\u0439",
+      "common_name":"Клітоцибе блідозабарвлений",
       "scientific_name":"Clitocybe metachroa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/331772470\/large.jpg",
@@ -14619,7 +14619,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u0432\u0438\u0431\u0456\u043b\u0435\u043d\u0438\u0439",
+      "common_name":"Клітоцибе вибілений",
       "scientific_name":"Clitocybe rivulosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/334258063\/large.jpg",
@@ -14657,7 +14657,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041a\u043b\u0456\u0442\u043e\u0446\u0438\u0431\u0435 \u043b\u0438\u0441\u0442\u043e\u043b\u044e\u0431\u0438\u0432\u0438\u0439",
+      "common_name":"Клітоцибе листолюбивий",
       "scientific_name":"Clitocybe phyllophila",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/591928365\/large.jpg",
@@ -14695,7 +14695,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041a\u043e\u0440\u0434\u0456\u0446\u0435\u043f\u0441 \u043e\u0444\u0456\u043e\u0433\u043b\u043e\u0441\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Кордіцепс офіоглосовидний",
       "scientific_name":"Tolypocladium ophioglossoides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/728270328\/large.jpg",
@@ -14733,7 +14733,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u0411\u0440\u0435\u0431\u0456\u0441\u043e\u043d",
+      "common_name":"Лепіота Бребісон",
       "scientific_name":"Leucocoprinus brebissonii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/615630517\/large.jpg",
@@ -14771,7 +14771,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u0432\u0437\u0434\u0443\u0442\u043e\u0441\u043f\u043e\u0440\u043e\u0432\u0430",
+      "common_name":"Лепіота вздутоспорова",
       "scientific_name":"Lepiota magnispora",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/100950983\/large.jpeg",
@@ -14809,7 +14809,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u0433\u0440\u0435\u0431\u0456\u043d\u0447\u0430\u0441\u0442\u0430",
+      "common_name":"Лепіота гребінчаста",
       "scientific_name":"Lepiota cristata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/100230822\/large.jpeg",
@@ -14847,7 +14847,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u043a\u0430\u0448\u0442\u0430\u043d\u043e\u0432\u0430",
+      "common_name":"Лепіота каштанова",
       "scientific_name":"Lepiota castanea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/242536702\/large.jpeg",
@@ -14885,7 +14885,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0430",
+      "common_name":"Лепіота коричнево-червона",
       "scientific_name":"Lepiota brunneoincarnata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/203598591\/large.jpg",
@@ -14923,7 +14923,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u043e\u0442\u0440\u0443\u0439\u043d\u0430",
+      "common_name":"Лепіота отруйна",
       "scientific_name":"Lepiota helveola",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/334912267\/large.jpg",
@@ -14942,7 +14942,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u0440\u043e\u0436\u0435\u0432\u0430",
+      "common_name":"Лепіота рожева",
       "scientific_name":"Lepiota subincarnata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/437567149\/large.jpeg",
@@ -14980,7 +14980,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u043f\u0456\u043e\u0442\u0430 \u0448\u043e\u0440\u0441\u0442\u043a\u0443\u0432\u0430\u0442\u0430",
+      "common_name":"Лепіота шорсткувата",
       "scientific_name":"Echinoderma asperum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/447135697\/large.jpeg",
@@ -15018,7 +15018,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041b\u0435\u0440\u0430\u0446\u0456\u043e\u043c\u0456\u0446\u0435\u0441 \u0446\u0435\u0440\u0435\u0440\u0430",
+      "common_name":"Лераціоміцес церера",
       "scientific_name":"Leratiomyces ceres",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/275809125\/large.jpg",
@@ -15056,7 +15056,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0456\u0446\u0435\u043d\u0430 \u0440\u043e\u0436\u0435\u0432\u0430",
+      "common_name":"Міцена рожева",
       "scientific_name":"Mycena rosea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/738765387\/large.jpg",
@@ -15094,7 +15094,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0456\u0446\u0435\u043d\u0430 \u0441\u0438\u043d\u044c\u043e\u043d\u043e\u0433\u0430",
+      "common_name":"Міцена синьонога",
       "scientific_name":"Mycena cyanorrhiza",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/752934484\/large.jpg",
@@ -15120,7 +15120,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0456\u0446\u0435\u043d\u0430 \u0447\u0438\u0441\u0442\u0430",
+      "common_name":"Міцена чиста",
       "scientific_name":"Mycena pura",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/44562378\/large.jpg",
@@ -15158,7 +15158,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0431\u0456\u043b\u0438\u0439",
+      "common_name":"Мухомор білий",
       "scientific_name":"Amanita verna",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/752449109\/large.jpg",
@@ -15196,7 +15196,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u043a\u043e\u0440\u043e\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Мухомор королівський",
       "scientific_name":"Amanita regalis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/699538387\/large.jpg",
@@ -15234,7 +15234,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u043f\u0430\u043d\u0442\u0435\u0440\u043d\u0438\u0439",
+      "common_name":"Мухомор пантерний",
       "scientific_name":"Amanita pantherina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/462309625\/large.jpg",
@@ -15272,7 +15272,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u043f\u0443\u0440\u043f\u0443\u0440\u043e\u0432\u0438\u0439",
+      "common_name":"Мухомор пурпуровий",
       "scientific_name":"Amanita porphyria",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/575607977\/large.jpg",
@@ -15310,7 +15310,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0441\u043c\u0435\u0440\u0434\u044e\u0447\u0438\u0439",
+      "common_name":"Мухомор смердючий",
       "scientific_name":"Amanita virosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/414871667\/large.jpeg",
@@ -15348,7 +15348,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0446\u0438\u0442\u0440\u0438\u043d\u043e\u0432\u0438\u0439",
+      "common_name":"Мухомор цитриновий",
       "scientific_name":"Amanita citrina",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/331015365\/large.jpg",
@@ -15386,7 +15386,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Мухомор червоний",
       "scientific_name":"Amanita muscaria",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/566311276\/large.jpg",
@@ -15424,7 +15424,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041c\u0443\u0445\u043e\u043c\u043e\u0440 \u044f\u0441\u043a\u0440\u0430\u0432\u043e-\u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Мухомор яскраво-жовтий",
       "scientific_name":"Amanita gemmata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/731366217\/large.jpg",
@@ -15462,7 +15462,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041d\u0435\u0433\u043d\u0438\u044e\u0447\u043d\u0438\u043a \u0441\u043c\u0435\u0440\u0434\u044e\u0447\u0438\u0439",
+      "common_name":"Негниючник смердючий",
       "scientific_name":"Marasmius foetidus",
       "images":[
 
@@ -15471,7 +15471,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041e\u043c\u0444\u0430\u043b\u043e\u0442 \u043e\u0440\u0430\u043d\u0436\u0435\u0432\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Омфалот оранжево-червоний",
       "scientific_name":"Omphalotus olearius",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/599622088\/large.jpg",
@@ -15509,7 +15509,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u043d\u0435\u0441\u043f\u0440\u0430\u0432\u0436\u043d\u0456\u0439 \u0441\u0456\u0440\u0447\u0430\u043d\u043e-\u0436\u043e\u0432\u0442\u0438\u0439",
+      "common_name":"Опеньок несправжній сірчано-жовтий",
       "scientific_name":"Hypholoma fasciculare",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/657791592\/large.jpg",
@@ -15547,7 +15547,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0445\u0438\u0431\u043d\u0438\u0439 \u0434\u043e\u0432\u0433\u043e\u043d\u043e\u0433\u0438\u0439",
+      "common_name":"Опеньок хибний довгоногий",
       "scientific_name":"Hypholoma elongatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/737673036\/large.jpg",
@@ -15585,7 +15585,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041e\u043f\u0435\u043d\u044c\u043e\u043a \u0445\u0438\u0431\u043d\u0438\u0439 \u043c\u043e\u0445\u043e\u0432\u0438\u0439",
+      "common_name":"Опеньок хибний моховий",
       "scientific_name":"Hypholoma polytrichi",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/151588758\/large.jpeg",
@@ -15601,7 +15601,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u0433\u0456\u0440\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Павутинник гірський",
       "scientific_name":"Cortinarius orellanus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/115814576\/large.jpeg",
@@ -15639,7 +15639,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043a\u0456\u043d\u043e\u0432\u0430\u0440\u043d\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Павутинник кіноварно-червоний",
       "scientific_name":"Cortinarius uliginosus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/157397652\/large.jpg",
@@ -15677,7 +15677,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043a\u0440\u0430\u0441\u0438\u0432\u0456\u0448\u0438\u0439",
+      "common_name":"Павутинник красивіший",
       "scientific_name":"Cortinarius rubellus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/570569857\/large.jpg",
@@ -15715,7 +15715,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043a\u0440\u0438\u0432\u0430\u0432\u043e-\u0447\u0435\u0440\u0432\u043e\u043d\u0438\u0439",
+      "common_name":"Павутинник криваво-червоний",
       "scientific_name":"Cortinarius sanguineus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/727859416\/large.jpg",
@@ -15753,7 +15753,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043b\u0456\u043d\u0438\u0432\u0438\u0439",
+      "common_name":"Павутинник лінивий",
       "scientific_name":"Cortinarius bolaris",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/748512945\/large.jpg",
@@ -15791,7 +15791,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043f\u0430\u0432\u0438\u043d\u0438\u0439",
+      "common_name":"Павутинник павиний",
       "scientific_name":"Cortinarius pavonius",
       "images":[
 
@@ -15800,7 +15800,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043f\u0430\u0441\u0438\u043d\u043a\u043e\u0432\u0438\u0434\u043d\u0438\u0439",
+      "common_name":"Павутинник пасинковидний",
       "scientific_name":"Cortinarius privignoides",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/25759256\/large.jpg"
@@ -15809,7 +15809,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0432\u0443\u0442\u0438\u043d\u043d\u0438\u043a \u043f\u0456\u0437\u043d\u0456\u0439",
+      "common_name":"Павутинник пізній",
       "scientific_name":"Cortinarius claricolor",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/574751343\/large.jpg",
@@ -15832,7 +15832,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u043d\u0435\u043e\u043b\u0456\u043d\u0430 \u0441\u0456\u043d\u043e\u043a\u043e\u0441\u043d\u0430",
+      "common_name":"Панеоліна сінокосна",
       "scientific_name":"Panaeolina foenisecii",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/666550867\/large.jpg",
@@ -15870,7 +15870,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u043d\u0435\u043e\u043b\u0443\u0441 \u043c\u0435\u0442\u0435\u043b\u0438\u043a\u043e\u0432\u0438\u0439",
+      "common_name":"Панеолус метеликовий",
       "scientific_name":"Panaeolus papilionaceus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/741646477\/large.jpg",
@@ -15908,7 +15908,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u043d\u0435\u043e\u043b\u0443\u0441 \u0441\u0438\u043d\u0456\u044e\u0447\u0438\u0439",
+      "common_name":"Панеолус синіючий",
       "scientific_name":"Panaeolus cyanescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/249021746\/large.jpg",
@@ -15946,7 +15946,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0440\u0430\u043b\u0435\u043f\u0456\u0441\u0442\u0430 \u0431\u0443\u0440\u043e-\u0436\u043e\u0432\u0442\u0430",
+      "common_name":"Паралепіста буро-жовта",
       "scientific_name":"Paralepista gilva",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/450835252\/large.jpeg",
@@ -15984,7 +15984,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0430\u0440\u0430\u043b\u0435\u043f\u0456\u0441\u0442\u0430 \u043e\u0431\u0435\u0440\u043d\u0435\u043d\u0430",
+      "common_name":"Паралепіста обернена",
       "scientific_name":"Paralepista flaccida",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/167760274\/large.jpg",
@@ -16022,7 +16022,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0436\u043e\u0432\u0442\u043e\u0448\u043a\u0456\u0440\u0430",
+      "common_name":"Печериця жовтошкіра",
       "scientific_name":"Agaricus xanthodermus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/5362969\/large.jpg",
@@ -16060,7 +16060,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0435\u0447\u0435\u0440\u0438\u0446\u044f \u0441\u0442\u0440\u043e\u043a\u0430\u0442\u0430",
+      "common_name":"Печериця строката",
       "scientific_name":"Agaricus moelleri",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/334130443\/large.jpeg",
@@ -16098,7 +16098,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u043b\u044e\u0442\u0435\u0439 \u0432\u0435\u0440\u0431\u043e\u0432\u0438\u0439",
+      "common_name":"Плютей вербовий",
       "scientific_name":"Pluteus salicinus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/436125329\/large.jpeg",
@@ -16136,7 +16136,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0440\u043e\u0442\u043e\u0441\u0442\u0440\u043e\u0444\u0430\u0440\u0456\u044f \u043d\u0430\u043f\u0456\u0432\u0441\u0444\u0435\u0440\u0438\u0447\u043d\u0430",
+      "common_name":"Протострофарія напівсферична",
       "scientific_name":"Protostropharia semiglobata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/141482077\/large.jpg",
@@ -16174,7 +16174,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0441\u0438\u043b\u043e\u0446\u0438\u0431\u0435 \u0433\u043d\u043e\u0454\u043b\u044e\u0431\u0438\u0432\u0430",
+      "common_name":"Псилоцибе гноєлюбива",
       "scientific_name":"Deconica coprophila",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/530966533\/large.jpg",
@@ -16212,7 +16212,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0441\u0438\u043b\u043e\u0446\u0438\u0431\u0435 \u043a\u0443\u0431\u0435\u043d\u0441\u0456\u0441",
+      "common_name":"Псилоцибе кубенсіс",
       "scientific_name":"Psilocybe cubensis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/451919914\/large.jpeg",
@@ -16250,7 +16250,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0441\u0438\u043b\u043e\u0446\u0438\u0431\u0435 \u043d\u0430\u043f\u0456\u0432\u043b\u0430\u043d\u0446\u0435\u0442\u043e\u0432\u0438\u0434\u043d\u0430",
+      "common_name":"Псилоцибе напівланцетовидна",
       "scientific_name":"Psilocybe semilanceata",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/238870045\/large.jpg",
@@ -16288,7 +16288,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0441\u0438\u043b\u043e\u0446\u0438\u0431\u0435 \u0441\u0438\u043d\u0456\u044e\u0447\u0430",
+      "common_name":"Псилоцибе синіюча",
       "scientific_name":"Psilocybe cyanescens",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/450672689\/large.jpeg",
@@ -16326,7 +16326,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u041f\u0441\u0438\u043b\u043e\u0446\u0438\u0431\u0435 \u0447\u0435\u0441\u044c\u043a\u0430",
+      "common_name":"Псилоцибе чеська",
       "scientific_name":"Psilocybe serbica",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/448079234\/large.jpeg",
@@ -16364,7 +16364,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u0430\u043c\u0430\u0440\u0456\u044f \u043a\u0440\u0430\u0441\u0438\u0432\u0430",
+      "common_name":"Рамарія красива",
       "scientific_name":"Ramaria formosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/423472304\/large.jpeg",
@@ -16382,7 +16382,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0431\u0456\u043b\u0430",
+      "common_name":"Рядовка біла",
       "scientific_name":"Tricholoma album",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/729787266\/large.jpg",
@@ -16420,7 +16420,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0437\u0433\u0443\u0431\u043d\u0430",
+      "common_name":"Рядовка згубна",
       "scientific_name":"Tricholoma pessundatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/451160916\/large.jpeg",
@@ -16458,7 +16458,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0441\u0456\u0440\u0447\u0430\u043d\u043e-\u0436\u043e\u0432\u0442\u0430",
+      "common_name":"Рядовка сірчано-жовта",
       "scientific_name":"Tricholoma sulphureum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/440340887\/large.jpeg",
@@ -16496,7 +16496,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0441\u043c\u0435\u0440\u0434\u044e\u0447\u0430",
+      "common_name":"Рядовка смердюча",
       "scientific_name":"Tricholoma inamoenum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/96404727\/large.jpeg",
@@ -16534,7 +16534,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0441\u043c\u0443\u0433\u0430\u0441\u0442\u0430",
+      "common_name":"Рядовка смугаста",
       "scientific_name":"Tricholoma virgatum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/261938052\/large.jpeg",
@@ -16572,7 +16572,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0442\u0438\u0433\u0440\u043e\u0432\u0430",
+      "common_name":"Рядовка тигрова",
       "scientific_name":"Tricholoma pardinum",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/235108851\/large.jpeg",
@@ -16610,7 +16610,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0420\u044f\u0434\u043e\u0432\u043a\u0430 \u0447\u0435\u0440\u0432\u043e\u043d\u043e-\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u0430",
+      "common_name":"Рядовка червоно-коричнева",
       "scientific_name":"Tricholoma ustale",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/167768045\/large.jpeg",
@@ -16648,7 +16648,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0432\u0438\u043d\u0443\u0445\u0430 \u0432\u0456\u043b\u044c\u0445\u043e\u0432\u0430",
+      "common_name":"Свинуха вільхова",
       "scientific_name":"Paxillus rubicundulus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/666025234\/large.jpg",
@@ -16686,7 +16686,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0432\u0438\u043d\u0443\u0445\u0430 \u0442\u043e\u043d\u043a\u0430",
+      "common_name":"Свинуха тонка",
       "scientific_name":"Paxillus involutus",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/61201419\/large.jpg",
@@ -16724,7 +16724,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0438\u0440\u043e\u0457\u0436\u043a\u0430 \u041c\u0435\u0439\u0440\u0430",
+      "common_name":"Сироїжка Мейра",
       "scientific_name":"Russula nobilis",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/602706316\/large.jpg",
@@ -16762,7 +16762,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0456\u0440\u0447\u0430\u043d\u0430 \u0433\u043e\u043b\u043e\u0432\u0430",
+      "common_name":"Сірчана голова",
       "scientific_name":"Psilocybe mairei",
       "images":[
 
@@ -16771,7 +16771,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0442\u0440\u043e\u0444\u0430\u0440\u0456\u044f \u043a\u043e\u0440\u043e\u043d\u0447\u0430\u0441\u0442\u0430",
+      "common_name":"Строфарія корончаста",
       "scientific_name":"Stropharia coronilla",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/444907589\/large.jpeg",
@@ -16809,7 +16809,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0442\u0440\u043e\u0444\u0430\u0440\u0456\u044f \u0441\u0438\u043d\u044c\u043e-\u0437\u0435\u043b\u0435\u043d\u0430",
+      "common_name":"Строфарія синьо-зелена",
       "scientific_name":"Stropharia aeruginosa",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/587395714\/large.jpg",
@@ -16847,7 +16847,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0442\u0440\u043e\u0447\u043e\u043a \u0433\u0456\u0433\u0430\u043d\u0442\u0441\u044c\u043a\u0438\u0439",
+      "common_name":"Строчок гігантський",
       "scientific_name":"Gyromitra gigas",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/637854177\/large.jpg",
@@ -16885,7 +16885,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0442\u0440\u043e\u0447\u043e\u043a \u0437\u0432\u0438\u0447\u0430\u0439\u043d\u0438\u0439",
+      "common_name":"Строчок звичайний",
       "scientific_name":"Gyromitra esculenta",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/200358775\/large.jpeg",
@@ -16923,7 +16923,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0421\u0442\u0440\u043e\u0447\u043e\u043a \u043e\u0441\u0456\u043d\u043d\u0456\u0439",
+      "common_name":"Строчок осінній",
       "scientific_name":"Gyromitra infula",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/615184395\/large.jpg",
@@ -16961,7 +16961,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0424\u0435\u043e\u043b\u0435\u043f\u0456\u043e\u0442\u0430 \u0437\u043e\u043b\u043e\u0442\u0438\u0441\u0442\u0430",
+      "common_name":"Феолепіота золотиста",
       "scientific_name":"Phaeolepiota aurea",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/33614290\/large.jpg",
@@ -16999,7 +16999,7 @@
       "edibility_precise":"poisonous"
    },
    {
-      "common_name":"\u0427\u043e\u0440\u0442\u0456\u0432 \u0433\u0440\u0438\u0431",
+      "common_name":"Чортів гриб",
       "scientific_name":"Rubroboletus satanas",
       "images":[
          "https:\/\/inaturalist-open-data.s3.amazonaws.com\/photos\/518134266\/large.jpg",
