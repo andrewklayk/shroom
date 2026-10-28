@@ -236,8 +236,12 @@ function answer(choice) {
   const verdict = $("verdict");
   verdict.className = "verdict " + (right ? "right" : "wrong");
   verdict.textContent =
-  (VERDICTS[truth] && VERDICTS[truth][choice]) ||
-  (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
+    (VERDICTS[truth] && VERDICTS[truth][choice]) ||
+    (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
+
+  
+  if (state.current[FIELDS.latin].includes("Amanita") && choice === "edible") {verdict.textContent = "З'ЇЛИ МУХОМОР!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"}
+
   $("result").className = "result " + (right ? "right" : "wrong");
   $("name").innerHTML = "";
   const common = document.createElement("strong");
