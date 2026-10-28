@@ -6,7 +6,7 @@
 <title>Гриб чи гроб</title>
 <style>
   :root {
-    --bg: #0d1210;        /* page background, near-black green */
+    --bg: #000;        /* page background, near-black green */
     --card: #161d19;      /* photo box and result panel */
     --text: #dde5df;      /* main text */
     --muted: #8a9b90;     /* secondary text */
@@ -19,7 +19,7 @@
     }
   @media (prefers-color-scheme: dark) {
     :root {
-    --bg: #0d1210;        /* page background, near-black green */
+    --bg: #000;        /* page background, near-black green */
     --card: #161d19;      /* photo box and result panel */
     --text: #dde5df;      /* main text */
     --muted: #8a9b90;     /* secondary text */
@@ -61,21 +61,26 @@
     display: flex; align-items: center; justify-content: center;
     overflow: hidden;
   }
-  .photo img { width: 100%; max-height: 560px; object-fit: contain; display: block; transition: opacity 0.2s; }
+  .photo img { width: 100%; max-height: 460px; object-fit: contain; display: block; transition: opacity 0.2s; }
   .photo img.loading { opacity: 0.3; }
   .credit { font-size: 0.8rem; color: var(--muted); margin: 6px 0 0; min-height: 1.2em; }
   .choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 16px 0; }
   button {
     font: inherit;
     padding: 12px 8px;
-    border: 1px solid var(--accent);
+    border: 1px solid var(--btn, var(--accent));
     background: var(--card);
-    color: var(--text);
+    color: var(--btn, var(--text));
     border-radius: 6px;
     cursor: pointer;
   }
-  button:hover:not(:disabled) { background: var(--accent); color: var(--bg); }
-  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  button:hover:not(:disabled) { background: var(--btn, var(--accent)); color: var(--bg); }
+  button:focus-visible { outline: 3px solid var(--btn, var(--accent)); outline-offset: 2px; }
+  
+  /* one color per answer option */
+  #choices button[data-answer="edible"]    { --btn: #5fb36f; }  /* green */
+  #choices button[data-answer="inedible"]  { --btn: #d1a54a; }  /* amber */
+  #choices button[data-answer="poisonous"] { --btn: #d9695f; }  /* red */
   button:disabled { opacity: 0.5; cursor: default; }
   .result { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
   .result[hidden] { display: none; }
@@ -208,6 +213,7 @@ const VERDICTS = {
 
 function answer(choice) {
   if (state.answered) return;
+  new Image().src = nextUrl;
   state.answered = true;
   const truth = normalize(state.current[FIELDS.edibility]);
   const right = choice === truth;
