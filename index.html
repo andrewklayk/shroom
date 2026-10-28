@@ -213,7 +213,6 @@ const VERDICTS = {
 
 function answer(choice) {
   if (state.answered) return;
-  new Image().src = nextUrl;
   state.answered = true;
   const truth = normalize(state.current[FIELDS.edibility]);
   const right = choice === truth;
