@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mushroom Guess</title>
+<style>
+  :root {
+    --bg: #eef1ea;
+    --card: #ffffff;
+    --text: #1f2a22;
+    --muted: #5d6b61;
+    --line: #cfd8cc;
+    --accent: #2f5d3a;
+    --good: #2f7d46;
+    --bad: #b3372d;
+    --warn-bg: #f6efd9;
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141a16;
+      --card: #1d2620;
+      --text: #e6ece7;
+      --muted: #9aab9f;
+      --line: #33423a;
+      --accent: #7fb88b;
+      --good: #6fc287;
+      --bad: #e5776d;
+      --warn-bg: #2b2818;
+      color-scheme: dark;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: Georgia, "Times New Roman", serif;
+    line-height: 1.5;
+  }
+  main { max-width: 640px; margin: 0 auto; padding: 24px 16px 48px; }
+  h1 { font-size: 1.8rem; margin: 0 0 4px; }
+  .sub { color: var(--muted); margin: 0 0 16px; }
+  .disclaimer {
+    background: var(--warn-bg);
+    border-left: 4px solid var(--accent);
+    padding: 10px 14px;
+    font-size: 0.9rem;
+    margin-bottom: 20px;
+  }
+  .score { display: flex; gap: 20px; font-size: 0.95rem; color: var(--muted); margin-bottom: 12px; }
+  .score b { color: var(--text); }
+  .photo {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 6px;
+    min-height: 260px;
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden;
+  }
+  .photo img { width: 100%; max-height: 460px; object-fit: contain; display: block; }
+  .credit { font-size: 0.8rem; color: var(--muted); margin: 6px 0 0; min-height: 1.2em; }
+  .choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 16px 0; }
+  button {
+    font: inherit;
+    padding: 12px 8px;
+    border: 1px solid var(--accent);
+    background: var(--card);
+    color: var(--text);
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  button:hover:not(:disabled) { background: var(--accent); color: var(--bg); }
+  button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+  button:disabled { opacity: 0.5; cursor: default; }
+  .result { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
+  .result[hidden] { display: none; }
+  .verdict { font-weight: bold; margin: 0 0 4px; }
+  .verdict.right { color: var(--good); }
+  .verdict.wrong { color: var(--bad); }
+  .name { margin: 0; }
+  .latin { font-style: italic; color: var(--muted); }
+  #next { margin-top: 12px; background: var(--accent); color: var(--bg); width: 100%; }
+  #next:hover { opacity: 0.9; }
+  #error { color: var(--bad); }
+</style>
+</head>
+<body>
+<main>
+  <h1>Mushroom Guess</h1>
+  <p class="sub">Look at the photo. Is it edible, inedible, or poisonous?</p>
+
+  <p class="disclaimer">
+    For fun only. Mushrooms cannot be safely identified from photos, and many edible and
+    toxic species look alike. Never eat a wild mushroom based on this game.
+  </p>
+
+  <div class="score">
+    <span>Score: <b id="score">0</b> / <b id="rounds">0</b></span>
+    <span>Streak: <b id="streak">0</b></span>
+  </div>
+
+  <div class="photo"><img id="photo" alt="A mushroom to identify" hidden><span id="loading">Loading…</span></div>
+  <p class="credit" id="credit"></p>
+
+  <div class="choices" id="choices">
+    <button data-answer="edible">Edible</button>
+    <button data-answer="inedible">Inedible</button>
+    <button data-answer="poisonous">Poisonous</button>
+  </div>
+
+  <div class="result" id="result" hidden>
+    <p class="verdict" id="verdict"></p>
+    <p class="name" id="name"></p>
+    <button id="next">Next mushroom</button>
+  </div>
+
+  <p id="error"></p>
+</main>
+
+<script>
+/*
+  Expected data/species.json format (adjust the field names in FIELDS below if yours differ):
+  [
+    {
+      "common_name": "Chanterelle",
+      "scientific_name": "Cantharellus cibarius",
+      "edibility": "edible",              // edible | inedible | poisonous (deadly/toxic count as poisonous)
+      "images": [
+        "https://example.com/photo1.jpg",
+        { "url": "https://example.com/photo2.jpg", "credit": "© Jane Doe, CC BY 4.0" }
+      ]
+    }
+  ]
+*/
+const DATA_URL = "data/species.json";
+const FIELDS = { common: "common_name", latin: "scientific_name", edibility: "edibility", images: "images" };
+const MAX_IMAGE_RETRIES = 5;
+
+const $ = (id) => document.getElementById(id);
+const state = { species: [], current: null, score: 0, rounds: 0, streak: 0, answered: false };
+
+function normalize(value) {
+  const v = String(value || "").trim().toLowerCase();
+  if (["deadly", "toxic", "poisonous", "deadly poisonous"].includes(v)) return "poisonous";
+  if (["edible", "choice"].includes(v)) return "edible";
+  if (["inedible", "non-edible", "not edible", "unpalatable"].includes(v)) return "inedible";
+  return null; // unknown label: species is skipped
+}
+
+function pick(list) {
+  return list[Math.floor(Math.random() * list.length)];
+}
+
+function showError(msg) { $("error").textContent = msg; }
+
+function loadImage(sp, attempt = 0) {
+  const entry = pick(sp[FIELDS.images]);
+  const url = typeof entry === "string" ? entry : entry.url;
+  const credit = typeof entry === "string" ? "" : (entry.credit || "");
+  const img = $("photo");
+  $("loading").hidden = false;
+  img.hidden = true;
+  img.onload = () => {
+    $("loading").hidden = true;
+    img.hidden = false;
+    $("credit").textContent = credit;
+  };
+  img.onerror = () => {
+    if (attempt < MAX_IMAGE_RETRIES) loadImage(sp, attempt + 1);
+    else { showError("Couldn't load a photo. Try the next one."); $("loading").hidden = true; }
+  };
+  img.src = url;
+}
+
+function newRound() {
+  showError("");
+  state.answered = false;
+  state.current = pick(state.species);
+  $("result").hidden = true;
+  document.querySelectorAll("#choices button").forEach((b) => (b.disabled = false));
+  loadImage(state.current);
+}
+
+function answer(choice) {
+  if (state.answered) return;
+  state.answered = true;
+  const truth = normalize(state.current[FIELDS.edibility]);
+  const right = choice === truth;
+
+  state.rounds++;
+  if (right) { state.score++; state.streak++; } else { state.streak = 0; }
+  $("score").textContent = state.score;
+  $("rounds").textContent = state.rounds;
+  $("streak").textContent = state.streak;
+
+  const verdict = $("verdict");
+  verdict.className = "verdict " + (right ? "right" : "wrong");
+  verdict.textContent = right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`;
+
+  $("name").innerHTML = "";
+  const common = document.createElement("strong");
+  common.textContent = state.current[FIELDS.common] || "Unnamed";
+  const latin = document.createElement("span");
+  latin.className = "latin";
+  latin.textContent = " " + (state.current[FIELDS.latin] || "");
+  $("name").append(common, latin);
+
+  document.querySelectorAll("#choices button").forEach((b) => (b.disabled = true));
+  $("result").hidden = false;
+  $("next").focus();
+}
+
+document.querySelectorAll("#choices button").forEach((b) =>
+  b.addEventListener("click", () => answer(b.dataset.answer))
+);
+$("next").addEventListener("click", newRound);
+
+fetch(DATA_URL)
+  .then((r) => {
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    return r.json();
+  })
+  .then((data) => {
+    state.species = data.filter(
+      (s) => normalize(s[FIELDS.edibility]) && Array.isArray(s[FIELDS.images]) && s[FIELDS.images].length
+    );
+    if (!state.species.length) throw new Error("No usable species in the data file.");
+    newRound();
+  })
+  .catch((e) => {
+    $("loading").hidden = true;
+    showError("Couldn't load " + DATA_URL + " (" + e.message + "). If you opened this file directly, run a local server: python -m http.server");
+  });
+</script>
+</body>
+</html>
