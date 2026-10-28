@@ -67,6 +67,11 @@
   #choices button[data-answer="edible"]    { --btn: #5fb36f; }  /* green */
   #choices button[data-answer="inedible"]  { --btn: #d1a54a; }  /* amber */
   #choices button[data-answer="poisonous"] { --btn: #d9695f; }  /* red */
+  button.selected, button.selected:disabled {
+    background: var(--btn, var(--accent));
+    color: var(--bg);
+    opacity: 1;
+    }
   button:disabled { opacity: 0.5; cursor: default; }
   .result { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
   .result[hidden] { display: none; }
@@ -171,10 +176,11 @@ function loadImage(sp, attempt = 0) {
 
 function newRound() {
   showError("");
+  
   state.answered = false;
   state.current = pick(state.species);
   $("result").hidden = true;
-  document.querySelectorAll("#choices button").forEach((b) => (b.disabled = false));
+  document.querySelectorAll("#choices button").forEach((b) => { b.disabled = false; b.classList.remove("selected"); });
   loadImage(state.current);
 }
 
@@ -231,7 +237,7 @@ function answer(choice) {
 }
 
 document.querySelectorAll("#choices button").forEach((b) =>
-  b.addEventListener("click", () => answer(b.dataset.answer))
+  b.addEventListener("click", () => { answer(b.dataset.answer); b.classList.add("selected"); })
 );
 $("next").addEventListener("click", newRound);
 
