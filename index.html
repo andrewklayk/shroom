@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mushroom Guess</title>
+<title>Гриб чи гроб</title>
 <style>
   :root {
     --bg: #eef1ea;
@@ -51,6 +51,8 @@
   }
   .score { display: flex; gap: 20px; font-size: 0.95rem; color: var(--muted); margin-bottom: 12px; }
   .score b { color: var(--text); }
+  .deaths { display: flex; gap: 20px; font-size: 0.95rem; color: var(--muted); margin-bottom: 12px; }
+  .deaths b { color: var(--text); }
   .photo {
     background: var(--card);
     border: 1px solid var(--line);
@@ -88,32 +90,28 @@
 </head>
 <body>
 <main>
-  <h1>Mushroom Guess</h1>
-  <p class="sub">Look at the photo. Is it edible, inedible, or poisonous?</p>
-
-  <p class="disclaimer">
-    For fun only. Mushrooms cannot be safely identified from photos, and many edible and
-    toxic species look alike. Never eat a wild mushroom based on this game.
-  </p>
+  <h1>Гриб чи гроб</h1>
+  <p class="sub">Їсиш чи ссиш?</p>
 
   <div class="score">
     <span>Score: <b id="score">0</b> / <b id="rounds">0</b></span>
     <span>Streak: <b id="streak">0</b></span>
+    <span>Deaths: <b id="deaths">0</b></span>
   </div>
 
-  <div class="photo"><img id="photo" alt="A mushroom to identify" hidden><span id="loading">Loading…</span></div>
+  <div class="photo"><img id="photo" alt="Ігор Гриб" hidden><span id="loading">Loading…</span></div>
   <p class="credit" id="credit"></p>
 
   <div class="choices" id="choices">
-    <button data-answer="edible">Edible</button>
-    <button data-answer="inedible">Inedible</button>
-    <button data-answer="poisonous">Poisonous</button>
+    <button data-answer="edible">Їстівний</button>
+    <button data-answer="inedible">Несмачний</button>
+    <button data-answer="poisonous">Отруйний</button>
   </div>
 
   <div class="result" id="result" hidden>
     <p class="verdict" id="verdict"></p>
     <p class="name" id="name"></p>
-    <button id="next">Next mushroom</button>
+    <button id="next">Далі</button>
   </div>
 
   <p id="error"></p>
@@ -139,7 +137,7 @@ const FIELDS = { common: "common_name", latin: "scientific_name", edibility: "ed
 const MAX_IMAGE_RETRIES = 5;
 
 const $ = (id) => document.getElementById(id);
-const state = { species: [], current: null, score: 0, rounds: 0, streak: 0, answered: false };
+const state = { species: [], current: null, score: 0, rounds: 0, streak: 0, answered: false, deaths: 0 };
 
 function normalize(value) {
   const v = String(value || "").trim().toLowerCase();
@@ -183,6 +181,25 @@ function newRound() {
   loadImage(state.current);
 }
 
+// VERDICTS[truth][choice] = message shown after the guess
+const VERDICTS = {
+  edible: {
+    edible:    "Правильно! З'їли",
+    inedible:  "Голодні... (Їстівний)",
+    poisonous: "Голодні... (Їстівний)"
+  },
+  inedible: {
+    edible:    "Неправильно! Ригаєм (неїстівний)",
+    inedible:  "Праильно!",
+    poisonous: "Неправильно! (Неїстівний)"
+  },
+  poisonous: {
+    edible:    "ВМЕРЛИ! (Отруйний)",
+    inedible:  "Неправильно! (Отруйний)",
+    poisonous: "Правильно! (Отруйний)"
+  }
+};
+
 function answer(choice) {
   if (state.answered) return;
   state.answered = true;
@@ -191,13 +208,17 @@ function answer(choice) {
 
   state.rounds++;
   if (right) { state.score++; state.streak++; } else { state.streak = 0; }
+  if (truth === "poisonous" && choice === "edible") {state.deaths++}
   $("score").textContent = state.score;
   $("rounds").textContent = state.rounds;
+  $("deaths").textContent = state.deaths;
   $("streak").textContent = state.streak;
 
   const verdict = $("verdict");
   verdict.className = "verdict " + (right ? "right" : "wrong");
-  verdict.textContent = right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`;
+    verdict.textContent =
+    (VERDICTS[truth] && VERDICTS[truth][choice]) ||
+    (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
 
   $("name").innerHTML = "";
   const common = document.createElement("strong");
