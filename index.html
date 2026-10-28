@@ -86,6 +86,8 @@
   button:disabled { opacity: 0.5; cursor: default; }
   .result { background: var(--card); border: 1px solid var(--line); border-radius: 6px; padding: 14px 16px; }
   .result[hidden] { display: none; }
+  .result.right { background: color-mix(in srgb, var(--good) 18%, var(--card)); border-color: var(--good); }
+  .result.wrong { background: color-mix(in srgb, var(--bad) 18%, var(--card)); border-color: var(--bad); }
   .verdict { font-weight: bold; margin: 0 0 4px; }
   .verdict.right { color: var(--good); }
   .verdict.wrong { color: var(--bad); }
@@ -233,10 +235,10 @@ function answer(choice) {
 
   const verdict = $("verdict");
   verdict.className = "verdict " + (right ? "right" : "wrong");
-    verdict.textContent =
-    (VERDICTS[truth] && VERDICTS[truth][choice]) ||
-    (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
-
+  verdict.textContent =
+  (VERDICTS[truth] && VERDICTS[truth][choice]) ||
+  (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
+  $("result").className = "result " + (right ? "right" : "wrong");
   $("name").innerHTML = "";
   const common = document.createElement("strong");
   common.textContent = state.current[FIELDS.common] || "Unnamed";
