@@ -154,9 +154,9 @@ const state = { species: [], current: null, score: 0, rounds: 0, streak: 0, answ
 
 function normalize(value) {
   const v = String(value || "").trim().toLowerCase();
-  if (["deadly", "toxic", "poisonous", "deadly poisonous", "inedible"].includes(v)) return "poisonous";
+  if (["deadly", "toxic", "poisonous", "deadly poisonous"].includes(v)) return "poisonous";
   if (["edible", "choice"].includes(v)) return "edible";
-  // if (["inedible", "non-edible", "not edible", "unpalatable"].includes(v)) return "inedible";
+  if (["inedible", "non-edible", "not edible", "unpalatable"].includes(v)) return "inedible";
   if (["cond"].includes(v)) return "conditional";
   return null; // unknown label: species is skipped
 }
@@ -221,16 +221,21 @@ const VERDICTS = {
   conditional: {
         edible:    "Правильно! Умовно їстівний",
         inedible:  "Голодні... (Умовно їстівний)",
-        poisonous: "Голодні... (Умовно ї стівний)"
+        poisonous: "Голодні... (Умовно їстівний)"
   }
 };
+
+  const EQ_RESULTS = {
+    edible: ["edible"],
+    inedible: ["poisonous", "inedible"]
+  }
 
 function answer(choice) {
   if (state.answered) return;
   state.answered = true;
   const truth = normalize(state.current[FIELDS.edibility]);
   const full_truth = normalize(state.current[FIELDS.precise_edibility])
-  const right = choice === truth;
+  const right = EQ_RESULTS[choice].includes[truth];
 
   state.rounds++;
   if (right) { state.score++; state.streak++; } else { state.streak = 0; }
