@@ -243,7 +243,7 @@ function answer(choice) {
   const verdict = $("verdict");
   verdict.className = "verdict " + (right ? "right" : "wrong");
   verdict.textContent =
-    (VERDICTS[truth] && VERDICTS[truth][choice]) ||
+    (VERDICTS[full_truth] && VERDICTS[full_truth][choice]) ||
     (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
 
   
