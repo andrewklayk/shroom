@@ -24,7 +24,7 @@
   
   #choices button[data-answer="edible"]    { --btn: var(--c-edible); }
   /* #choices button[data-answer="inedible"]  { --btn: var(--c-inedible); } */
-  #choices button[data-answer="poisonous"] { --btn: var(--c-poisonous); }
+  #choices button[data-answer="inedible"] { --btn: var(--c-poisonous); }
   
   .top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
   #theme-toggle { padding: 6px 12px; font-size: 0.85rem; }
@@ -74,10 +74,6 @@
   button:hover:not(:disabled) { background: var(--btn, var(--accent)); color: var(--bg); }
   button:focus-visible { outline: 3px solid var(--btn, var(--accent)); outline-offset: 2px; }
   
-  /* one color per answer option */
-  #choices button[data-answer="edible"]    { --btn: #5fb36f; }  /* green */
-  /* #choices button[data-answer="inedible"]  { --btn: #d1a54a; }  /* amber */
-  #choices button[data-answer="inedible"] { --btn: #d9695f; }  /* red */
   button.selected, button.selected:disabled {
     background: var(--btn, var(--accent));
     color: var(--bg);
