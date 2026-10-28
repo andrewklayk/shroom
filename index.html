@@ -5,18 +5,29 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Гриб чи гроб</title>
 <style>
+  /* dark (default) */
   :root {
-  --bg: #121212; --card: #1c1c1c; --text: #ece8e1; --muted: #9a948a;
-  --line: #333333; --accent: #d9a441; --good: #7bc47f; --bad: #e0685c;
-  --warn-bg: #2a2415; color-scheme: dark;
+    --bg: #0d1210; --card: #161d19; --text: #dde5df; --muted: #8a9b90;
+    --line: #2a3830; --accent: #6fae7c; --good: #6fc287; --bad: #e5776d;
+    --warn-bg: #221f12;
+    --c-edible: #5fb36f; --c-inedible: #d1a54a; --c-poisonous: #d9695f;
+    color-scheme: dark;
   }
-  @media (prefers-color-scheme: dark) {
-    :root {
-    --bg: #121212; --card: #1c1c1c; --text: #ece8e1; --muted: #9a948a;
-    --line: #333333; --accent: #d9a441; --good: #7bc47f; --bad: #e0685c;
-    --warn-bg: #2a2415; color-scheme: dark;
-    }
+  /* light */
+  :root[data-theme="light"] {
+    --bg: #eef1ea; --card: #ffffff; --text: #1f2a22; --muted: #5d6b61;
+    --line: #cfd8cc; --accent: #2f5d3a; --good: #2f7d46; --bad: #b3372d;
+    --warn-bg: #f6efd9;
+    --c-edible: #2f7d46; --c-inedible: #8f6500; --c-poisonous: #b3372d;
+    color-scheme: light;
   }
+  
+  #choices button[data-answer="edible"]    { --btn: var(--c-edible); }
+  #choices button[data-answer="inedible"]  { --btn: var(--c-inedible); }
+  #choices button[data-answer="poisonous"] { --btn: var(--c-poisonous); }
+  
+  .top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
+  #theme-toggle { padding: 6px 12px; font-size: 0.85rem; }
   * { box-sizing: border-box; }
   body {
     margin: 0;
@@ -87,7 +98,10 @@
 </head>
 <body>
 <main>
-  <h1>Гриб чи гроб</h1>
+  <header class="top">
+    <h1>Гриб чи гроб</h1>
+    <button id="theme-toggle" type="button"></button>
+  </header>
   <p class="sub">Їсиш чи ссиш?</p>
 
   <div class="score">
@@ -256,6 +270,20 @@ fetch(DATA_URL)
   .catch((e) => {
     showError("Couldn't load " + DATA_URL + " (" + e.message + "). If you opened this file directly, run a local server: python -m http.server");
   });
+  
+const root = document.documentElement;
+
+function setTheme(theme) {
+  root.dataset.theme = theme;
+  $("theme-toggle").textContent = theme === "dark" ? "Light mode" : "Dark mode";
+}
+
+setTheme(matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark");
+
+$("theme-toggle").addEventListener("click", () =>
+  setTheme(root.dataset.theme === "dark" ? "light" : "dark")
+);
+
 </script>
 </body>
 </html>
