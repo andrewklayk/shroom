@@ -146,7 +146,7 @@
   ]
 */
 const DATA_URL = "shrooms.json";
-const FIELDS = { common: "common_name", latin: "scientific_name", edibility: "edibility", images: "images" };
+const FIELDS = { common: "common_name", latin: "scientific_name", edibility: "edibility", precise_edibility: "edibility_precise", images: "images" };
 const MAX_IMAGE_RETRIES = 5;
 
 const $ = (id) => document.getElementById(id);
@@ -157,6 +157,7 @@ function normalize(value) {
   if (["deadly", "toxic", "poisonous", "deadly poisonous"].includes(v)) return "poisonous";
   if (["edible", "choice"].includes(v)) return "edible";
   if (["inedible", "non-edible", "not edible", "unpalatable"].includes(v)) return "inedible";
+  if (["cond"].includes(v)) return "conditional";
   return null; // unknown label: species is skipped
 }
 
@@ -216,6 +217,11 @@ const VERDICTS = {
     edible:    "ВМЕРЛИ! (Отруйний)",
     inedible:  "Неправильно! (Отруйний)",
     poisonous: "Правильно! (Отруйний)"
+  },
+  conditional: {
+        edible:    "Правильно! Умовно їстівний",
+        inedible:  "Голодні... (Умовно їстівний)",
+        poisonous: "Голодні... (Умовно ї стівний)"
   }
 };
 
@@ -223,6 +229,7 @@ function answer(choice) {
   if (state.answered) return;
   state.answered = true;
   const truth = normalize(state.current[FIELDS.edibility]);
+  const full_truth = normalize(state.current[FIELDS.precise_edibility])
   const right = choice === truth;
 
   state.rounds++;
@@ -240,7 +247,9 @@ function answer(choice) {
     (right ? `Correct: ${truth}.` : `Not quite. This one is ${truth}.`);
 
   
-  if (state.current[FIELDS.latin].includes("Amanita") && choice === "edible") {verdict.textContent = "З'ЇЛИ МУХОМОР!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"}
+  if (state.current[FIELDS.latin].includes("Amanita") && choice === "edible" && !right) {
+    verdict.textContent = "З'ЇЛИ МУХОМОР!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+  }
 
   $("result").className = "result " + (right ? "right" : "wrong");
   $("name").innerHTML = "";
