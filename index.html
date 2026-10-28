@@ -61,7 +61,8 @@
     display: flex; align-items: center; justify-content: center;
     overflow: hidden;
   }
-  .photo img { width: 100%; max-height: 660px; object-fit: contain; display: block; }
+  .photo img { width: 100%; max-height: 660px; object-fit: contain; display: block; transition: opacity 0.2s; }
+  .photo img.loading { opacity: 0.3; }
   .credit { font-size: 0.8rem; color: var(--muted); margin: 6px 0 0; min-height: 1.2em; }
   .choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 16px 0; }
   button {
@@ -99,7 +100,7 @@
     <span>Смерті: <b id="deaths">0</b></span>
   </div>
 
-  <div class="photo"><img id="photo" alt="Ігор Гриб" hidden><span id="loading">Loading…</span></div>
+  <div class="photo"><img id="photo" alt="Ігор Гриб" hidden></div>
   <p class="credit" id="credit"></p>
 
   <div class="choices" id="choices">
@@ -158,16 +159,21 @@ function loadImage(sp, attempt = 0) {
   const url = typeof entry === "string" ? entry : entry.url;
   const credit = typeof entry === "string" ? "" : (entry.credit || "");
   const img = $("photo");
-  $("loading").hidden = false;
-  img.hidden = true;
+
+  img.classList.add("loading");          // dim the current photo
+  $("credit").textContent = "";          // don't show the old credit on the new photo
+
   img.onload = () => {
-    $("loading").hidden = true;
     img.hidden = false;
+    img.classList.remove("loading");
     $("credit").textContent = credit;
   };
   img.onerror = () => {
     if (attempt < MAX_IMAGE_RETRIES) loadImage(sp, attempt + 1);
-    else { showError("Couldn't load a photo. Try the next one."); $("loading").hidden = true; }
+    else {
+      img.classList.remove("loading");
+      showError("Couldn't load a photo. Try the next one.");
+    }
   };
   img.src = url;
 }
@@ -251,7 +257,6 @@ fetch(DATA_URL)
     newRound();
   })
   .catch((e) => {
-    $("loading").hidden = true;
     showError("Couldn't load " + DATA_URL + " (" + e.message + "). If you opened this file directly, run a local server: python -m http.server");
   });
 </script>
