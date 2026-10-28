@@ -6,29 +6,29 @@
 <title>Гриб чи гроб</title>
 <style>
   :root {
-    --bg: #eef1ea;
-    --card: #ffffff;
-    --text: #1f2a22;
-    --muted: #5d6b61;
-    --line: #cfd8cc;
-    --accent: #2f5d3a;
-    --good: #2f7d46;
-    --bad: #b3372d;
-    --warn-bg: #f6efd9;
-    color-scheme: light;
-  }
+    --bg: #0d1210;        /* page background, near-black green */
+    --card: #161d19;      /* photo box and result panel */
+    --text: #dde5df;      /* main text */
+    --muted: #8a9b90;     /* secondary text */
+    --line: #2a3830;      /* borders */
+    --accent: #6fae7c;    /* buttons and highlights */
+    --good: #6fc287;      /* correct answer */
+    --bad: #e5776d;       /* wrong answer */
+    --warn-bg: #221f12;   /* disclaimer box */
+    color-scheme: dark;
+    }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #141a16;
-      --card: #1d2620;
-      --text: #e6ece7;
-      --muted: #9aab9f;
-      --line: #33423a;
-      --accent: #7fb88b;
-      --good: #6fc287;
-      --bad: #e5776d;
-      --warn-bg: #2b2818;
-      color-scheme: dark;
+    --bg: #0d1210;        /* page background, near-black green */
+    --card: #161d19;      /* photo box and result panel */
+    --text: #dde5df;      /* main text */
+    --muted: #8a9b90;     /* secondary text */
+    --line: #2a3830;      /* borders */
+    --accent: #6fae7c;    /* buttons and highlights */
+    --good: #6fc287;      /* correct answer */
+    --bad: #e5776d;       /* wrong answer */
+    --warn-bg: #221f12;   /* disclaimer box */
+    color-scheme: dark;
     }
   }
   * { box-sizing: border-box; }
@@ -61,7 +61,7 @@
     display: flex; align-items: center; justify-content: center;
     overflow: hidden;
   }
-  .photo img { width: 100%; max-height: 460px; object-fit: contain; display: block; }
+  .photo img { width: 100%; max-height: 660px; object-fit: contain; display: block; }
   .credit { font-size: 0.8rem; color: var(--muted); margin: 6px 0 0; min-height: 1.2em; }
   .choices { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 16px 0; }
   button {
@@ -94,9 +94,9 @@
   <p class="sub">Їсиш чи ссиш?</p>
 
   <div class="score">
-    <span>Score: <b id="score">0</b> / <b id="rounds">0</b></span>
-    <span>Streak: <b id="streak">0</b></span>
-    <span>Deaths: <b id="deaths">0</b></span>
+     <span>Очьки: <b id="score">0</b> / <b id="rounds">0</b></span>
+    <span>Поспіль: <b id="streak">0</b></span>
+    <span>Смерті: <b id="deaths">0</b></span>
   </div>
 
   <div class="photo"><img id="photo" alt="Ігор Гриб" hidden><span id="loading">Loading…</span></div>
