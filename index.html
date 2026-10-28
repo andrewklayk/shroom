@@ -23,7 +23,7 @@
   }
   
   #choices button[data-answer="edible"]    { --btn: var(--c-edible); }
-  #choices button[data-answer="inedible"]  { --btn: var(--c-inedible); }
+  /* #choices button[data-answer="inedible"]  { --btn: var(--c-inedible); } */
   #choices button[data-answer="poisonous"] { --btn: var(--c-poisonous); }
   
   .top { display: flex; justify-content: space-between; align-items: center; gap: 12px; }
@@ -76,7 +76,7 @@
   
   /* one color per answer option */
   #choices button[data-answer="edible"]    { --btn: #5fb36f; }  /* green */
-  #choices button[data-answer="inedible"]  { --btn: #d1a54a; }  /* amber */
+  /* #choices button[data-answer="inedible"]  { --btn: #d1a54a; }  /* amber */
   #choices button[data-answer="poisonous"] { --btn: #d9695f; }  /* red */
   button.selected, button.selected:disabled {
     background: var(--btn, var(--accent));
@@ -117,7 +117,7 @@
 
   <div class="choices" id="choices">
     <button data-answer="edible">Їстівний</button>
-    <button data-answer="inedible">Несмачний</button>
+    <!-- <button data-answer="inedible">Несмачний</button> -->
     <button data-answer="poisonous">Отруйний</button>
   </div>
 
@@ -154,9 +154,9 @@ const state = { species: [], current: null, score: 0, rounds: 0, streak: 0, answ
 
 function normalize(value) {
   const v = String(value || "").trim().toLowerCase();
-  if (["deadly", "toxic", "poisonous", "deadly poisonous"].includes(v)) return "poisonous";
+  if (["deadly", "toxic", "poisonous", "deadly poisonous", "inedible"].includes(v)) return "poisonous";
   if (["edible", "choice"].includes(v)) return "edible";
-  if (["inedible", "non-edible", "not edible", "unpalatable"].includes(v)) return "inedible";
+  // if (["inedible", "non-edible", "not edible", "unpalatable"].includes(v)) return "inedible";
   if (["cond"].includes(v)) return "conditional";
   return null; // unknown label: species is skipped
 }
