@@ -114,7 +114,7 @@
   <div class="choices" id="choices">
     <button data-answer="edible">Їстівний</button>
     <!-- <button data-answer="inedible">Несмачний</button> -->
-    <button data-answer="inedible">Отруйний</button>
+    <button data-answer="inedible">Неїстівний</button>
   </div>
 
   <div class="result" id="result" hidden>
@@ -211,13 +211,13 @@ const VERDICTS = {
   },
   poisonous: {
     edible:    "ВМЕРЛИ! (Отруйний)",
-    inedible:  "Неправильно! (Отруйний)",
+    inedible:  "Правильно! (Отруйний)",
     poisonous: "Правильно! (Отруйний)"
   },
   conditional: {
-        edible:    "Правильно! Умовно їстівний",
-        inedible:  "Голодні... (Умовно їстівний)",
-        poisonous: "Голодні... (Умовно їстівний)"
+    edible:    "Правильно! Умовно їстівний",
+    inedible:  "Голодні... (Умовно їстівний)",
+    poisonous: "Голодні... (Умовно їстівний)"
   }
 };
 
