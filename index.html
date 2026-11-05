@@ -50,6 +50,10 @@
   .score b { color: var(--text); }
   .deaths { display: flex; gap: 20px; font-size: 0.95rem; color: var(--muted); margin-bottom: 12px; }
   .deaths b { color: var(--text); }
+  .rygaem { display: flex; gap: 20px; font-size: 0.95rem; color: var(--muted); margin-bottom: 12px; }
+  .rygaem b { color: var(--text); }
+  .eaten { display: flex; gap: 20px; font-size: 0.95rem; color: var(--muted); margin-bottom: 12px; }
+  .eaten b { color: var(--text); }
   .photo {
     background: var(--card);
     border: 1px solid var(--line);
@@ -97,7 +101,7 @@
 <body>
 <main>
   <header class="top">
-    <h1>Гриб чи гроб</h1>
+    <h1>❤️ Гриб чи гроб ❤️</h1>
     <button id="theme-toggle" type="button"></button>
   </header>
   <p class="sub">Їсиш чи ссиш?</p>
@@ -146,7 +150,7 @@ const FIELDS = { common: "common_name", latin: "scientific_name", edibility: "ed
 const MAX_IMAGE_RETRIES = 5;
 
 const $ = (id) => document.getElementById(id);
-const state = { species: [], current: null, score: 0, rounds: 0, streak: 0, answered: false, deaths: 0 };
+const state = { species: [], current: null, score: 0, rounds: 0, eaten: 0, rygaem: 0, answered: false, deaths: 0 };
 
 function normalize(value) {
   const v = String(value || "").trim().toLowerCase();
@@ -234,12 +238,18 @@ function answer(choice) {
   const right = EQ_RESULTS[choice].includes(truth);
 
   state.rounds++;
+  
   if (right) { state.score++; state.streak++; } else { state.streak = 0; }
-  if (truth === "poisonous" && choice === "edible") {state.deaths++}
+  if (full_truth === "poisonous" && choice === "edible") {state.deaths++}
+  if (full_truth === "inedible" && choice === "edible") {state.rygaem++}
+  if (full_truth === "conditional" && choice === "edible") {state.eaten++}
+  if (full_truth === "edible" && choice === "edible") {state.eaten++}
+
   $("score").textContent = state.score;
   $("rounds").textContent = state.rounds;
   $("deaths").textContent = state.deaths;
-  $("streak").textContent = state.streak;
+  $("eaten").textContent = state.eaten;
+  $("rygaem").textContent = state.rygaem;
 
   const verdict = $("verdict");
   verdict.className = "verdict " + (right ? "right" : "wrong");
